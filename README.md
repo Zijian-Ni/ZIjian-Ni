@@ -323,13 +323,13 @@
 
 ```python
 learning_roadmap = {
-    "2024_Q4": [
+    "2025_Q4": [
         "🔧 Advanced Multi-Agent Systems Architecture",
         "📚 Production-Grade RAG Implementation", 
         "🎯 LLM Fine-Tuning & RLHF Techniques",
         "🏗️ Distributed AI System Design"
     ],
-    "2025_Q1": [
+    "2026_Q1": [
         "🤖 Agentic AI Orchestration Patterns",
         "🕸️ GraphRAG & Knowledge Graph Integration",
         "📱 Edge AI & Model Optimization",
