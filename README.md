@@ -1,7 +1,9 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Hello%2C+I'm+Building+the+Future+%F0%9F%8C%9F;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%AD%A3%E5%9C%A8%E6%9E%84%E5%BB%BA%E6%9C%AA%E6%9D%A5" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=800&lines=Hello,+I'm+Building+the+Future+🌟" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A277FF&center=true&vCenter=true&width=800&lines=你好，我正在构建未来+✨" alt="Typing SVG" />
 
 <!-- Visitor Badge -->
 <img src="https://komarev.com/ghpvc/?username=Zijian-Ni&label=Profile%20Views&color=A277FF&style=flat" alt="Profile Views" />
@@ -233,13 +235,13 @@
 
 ```python
 learning_roadmap = {
-    "2025_Q4": [
+    "2024_Q4": [
         "🔧 Advanced Multi-Agent Systems Architecture",
         "📚 Production-Grade RAG Implementation", 
         "🎯 LLM Fine-Tuning & RLHF Techniques",
         "🏗️ Distributed AI System Design"
     ],
-    "2026_Q1": [
+    "2025_Q1": [
         "🤖 Agentic AI Orchestration Patterns",
         "🕸️ GraphRAG & Knowledge Graph Integration",
         "📱 Edge AI & Model Optimization",
@@ -323,7 +325,7 @@ Great AI systems are built by teams, not individuals
 
 ---
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A277FF&center=true&vCenter=true&width=600&lines=Thanks+for+visiting!+%E2%AD%90;%E6%84%9F%E8%B0%A2%E8%AE%BF%E9%97%AE%EF%BC%81+Let's+shape+the+AI+future+together!;%E8%AE%A9%E6%88%91%E4%BB%AC%E4%B8%80%E8%B5%B7%E5%A1%91%E9%80%A0AI%E6%9C%AA%E6%9D%A5%EF%BC%81" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=A277FF&center=true&vCenter=true&width=800&lines=Thanks+for+visiting!+⭐+感谢访问！;Let's+shape+the+AI+future+together!;让我们一起塑造AI未来！" alt="Typing SVG" />
 
 </div>
 
