@@ -447,7 +447,7 @@ Great AI systems are built by teams, not individuals
   <a href="mailto:xiaoni112233@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/%E5%AD%90%E5%81%A5-%E5%80%AA-796358316/)">
+  <a href="https://www.linkedin.com/in/%E5%AD%90%E5%81%A5-%E5%80%AA-796358316/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
