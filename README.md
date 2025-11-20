@@ -61,7 +61,7 @@
 
 <div align="center">
 
-## 🎨 Aurora Universe | 极光宇宙
+## 🎨 Aurora Universe | [极光宇宙](https://aurora-server-nexus-472652485048.us-west1.run.app/)
 
 ### 🌌 Building an Intelligent Ecosystem | 构建智能生态系统
 
@@ -73,7 +73,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 **Aurora Xiaoluo** | 极光小落
+### 🤖 **Aurora Xiaoluo** | [极光小落](https://zijian-ni.github.io/auroraluo-docs/)
 **QQ Group Chat AI Assistant**
 
 🎯 An intelligent conversational AI that brings life to QQ group chats with:
@@ -88,7 +88,7 @@
 </td>
 <td width="50%" valign="top">
 
-### ⛏️ **Aurora Xiaoyu** | 极光小雨
+### ⛏️ **Aurora Xiaoyu** | [极光小雨](https://zijian-ni.github.io/aurorayu-docs/)
 **Minecraft Server AI Companion**
 
 🎮 Bringing AI intelligence into the Minecraft world:
@@ -110,7 +110,7 @@
 
 ### 🔮 Future of Aurora | 极光的未来
 
-> **Collaborating with [xinghun1314](https://github.com/xinghun1314)** to expand the Aurora series into a comprehensive AI ecosystem, delivering intelligent solutions across gaming, social platforms, productivity tools, and beyond.
+> **Collaborating with [xinghun1314](https://github.com/Herdeny)** to expand the Aurora series into a comprehensive AI ecosystem, delivering intelligent solutions across gaming, social platforms, productivity tools, and beyond.
 
 **Coming Soon:** Aurora Cloud Services • Aurora Developer Platform • Aurora Mobile AI
 
@@ -292,7 +292,7 @@
 
 <div align="center">
 
-### 🎯 Cutting-Edge AI Focus Areas (2024-2025)
+### 🎯 Cutting-Edge AI Focus Areas (2025-2026)
 
 </div>
 
@@ -300,7 +300,7 @@
 
 | **Domain** | **Technologies** | **Applications** |
 |:----------:|:-----------------|:-----------------|
-| 🤖 **LLM & GenAI** | GPT-4, Claude 3, Gemini, Llama 3, Mistral | Conversational AI, Code Generation, Content Creation |
+| 🤖 **LLM & GenAI** | GPT-4, Claude 3, Gemini 3, Llama 3, Mistral | Conversational AI, Code Generation, Content Creation |
 | 🔍 **RAG Systems** | LangChain, LlamaIndex, Vector DBs, Hybrid Search | Knowledge Management, Document Intelligence, Q&A Systems |
 | 👥 **Multi-Agent AI** | LangGraph, CrewAI, AutoGen, Semantic Kernel | Collaborative Problem Solving, Workflow Automation |
 | 🧠 **Neural Architecture** | Transformers, Mixture-of-Experts, GraphRAG | Advanced Model Design, Efficient Training |
@@ -444,10 +444,10 @@ Great AI systems are built by teams, not individuals
   <a href="https://github.com/Zijian-Ni">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:xiaoni112233@outlook.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/yourprofile">
+  <a href="[https://www.linkedin.com/in/yourprofile](https://www.linkedin.com/in/%E5%AD%90%E5%81%A5-%E5%80%AA-796358316/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
