@@ -32,7 +32,7 @@
 
 🎯 **Career Vision:** Aspiring to become an **AI World Architect** — designing intelligent systems that transform how humans interact with technology.
 
-🚀 **Current Focus:** Building the **Aurora Universe** (极光宇宙), a comprehensive ecosystem of AI-powered applications that bring intelligent assistance to everyday digital life.
+🚀 **Current Focus:** Building the **Aurora Universe** (极光宇宙), a comprehensive ecosystem of AI-powered applications — from QQ chatbots to OpenClaw-powered personal AI agents, Minecraft companions, football analytics APIs, search engines, and game AI.
 
 💡 **Philosophy:** I believe AI should be accessible, helpful, and seamlessly integrated into communities where people connect and create.
 
@@ -45,7 +45,7 @@
 
 🎯 **职业愿景：** 努力成为**AI世界架构师** —— 设计能够改变人机交互方式的智能系统。
 
-🚀 **当前重点：** 正在构建**Aurora宇宙（极光宇宙）**，这是一个全面的AI应用生态系统，为日常数字生活带来智能助手。
+🚀 **当前重点：** 正在构建**Aurora宇宙（极光宇宙）**，一个全面的AI应用生态系统 —— 从QQ聊天机器人到OpenClaw驱动的个人AI代理、Minecraft伙伴、足球数据分析API、搜索引擎和游戏AI。
 
 💡 **理念：** 我相信AI应该是易获取的、有帮助的，并且能够无缝集成到人们连接和创造的社区中。
 
@@ -74,16 +74,26 @@
 <td width="50%" valign="top">
 
 ### 🤖 **Aurora Xiaoluo** | [极光小落](https://zijian-ni.github.io/auroraluo-docs/)
-**QQ Group Chat AI Assistant**
+**AI Assistant — From QQ Bot to Personal Agent**
 
-🎯 An intelligent conversational AI that brings life to QQ group chats with:
+🎯 An intelligent AI that evolved through two major phases:
 
-- 🧠 **Natural Language Understanding** powered by state-of-the-art LLMs
-- 💬 **Context-Aware Responses** that adapt to community dynamics
-- 🎨 **Multi-Modal Interactions** supporting text, images, and rich media
-- ✨ **Personality-Driven Design** making AI feel approachable and fun
+**Phase 1 (2024–2025): QQ Group Chat AI 🐧**
+- 🧠 **NoneBot2 + OneBot v11** powering QQ group interactions
+- 🔥 **Volcengine ARK doubao models** for natural language understanding
+- 📚 **FAISS/HNSWLIB + SQLite/MySQL** RAG v2 knowledge retrieval
+- 🎵 **KLING AI TTS** for voice message generation
+- 👥 Co-created with **星魂** ([xinghun1314/Herdeny](https://github.com/Herdeny))
 
-**Tech Stack:** `Python` `LangChain` `LLM APIs` `Redis` `Docker`
+**Phase 2 (2025–2026): OpenClaw Personal AI Agent 🌐**
+- 🤖 Evolved into a **full-system AI agent** on Telegram
+- 🧠 Powered by **Claude Opus 4.6 / Sonnet 4.6**
+- 📁 **753MB knowledge base** with 10,000+ files
+- 🔧 Full system access: file management, web browsing, code execution, GitHub automation, B站 automation, cron scheduling, market monitoring
+- 🏰 **NemoClaw sandbox** for secure execution
+- 📛 Name inherited from the original QQ bot
+
+**Tech Stack:** `Python` `NoneBot2` `OpenClaw` `Claude API` `Telegram` `FAISS` `edge-tts` `matplotlib` `weasyprint`
 
 </td>
 <td width="50%" valign="top">
@@ -106,11 +116,70 @@
 
 <br/>
 
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### ⚽ **SportsPulse REST API**
+**COMP3011 CW1 — Football Analytics**
+
+📊 A comprehensive football statistics & analytics REST API:
+
+- 🏟️ **25+ endpoints** for teams, players, matches, standings
+- 🔐 **Token authentication** with role-based access
+- 📈 **TF-IDF analytics** for intelligent text search
+- ✅ **79 tests** ensuring production reliability
+- 📖 **drf-spectacular** auto-generated API docs
+
+**Tech Stack:** `Django` `DRF` `SQLite` `drf-spectacular`
+
+🔗 [Live Demo](https://zijianni.pythonanywhere.com) · [GitHub](https://github.com/Zijian-Ni/3011_CW1)
+
+</td>
+<td width="33%" valign="top">
+
+### 🔍 **Search Engine Tool**
+**COMP3011 CW2 — Web Search**
+
+🕷️ A full-featured web crawler and search engine:
+
+- 🌐 **Web crawler** with intelligent page discovery
+- 📑 **Inverted index** for fast document retrieval
+- 📊 **TF-IDF ranking** for relevant search results
+- ✅ **132 tests, 93% coverage** for robust quality
+- ⚡ Efficient indexing and query processing
+
+**Tech Stack:** `Python` `Requests` `BeautifulSoup`
+
+🔗 [GitHub](https://github.com/Zijian-Ni/comp3011-search-engine)
+
+</td>
+<td width="33%" valign="top">
+
+### 🐑 **BattleSheep AI**
+**COMP3931 — Individual Project**
+
+🎲 MCTS/UCT AI agent for hexagonal board game:
+
+- 🧠 **3 AI agents:** Random, Greedy, MCTS/UCT
+- 🔑 **Zobrist hashing** for transposition detection
+- ⚡ **Fast rollout** policy for efficient simulations
+- 🏆 **87.5% win rate** vs Greedy agent
+- ✅ **36 tests** covering game logic & AI
+
+**Tech Stack:** `Python` `MCTS` `UCT` `Zobrist Hashing`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 <div align="center">
 
 ### 🔮 Future of Aurora | 极光的未来
 
-> **Collaborating with [xinghun1314](https://github.com/Herdeny)** to expand the Aurora series into a comprehensive AI ecosystem, delivering intelligent solutions across gaming, social platforms, productivity tools, and beyond.
+> Co-created with **星魂 ([xinghun1314/Herdeny](https://github.com/Herdeny))** — childhood friends since 2012, together built the Aurora Universe from a Minecraft guild (落雨阁, 2017) to a comprehensive AI ecosystem spanning QQ bots, Telegram agents, Minecraft companions, and beyond.
 
 **Coming Soon:** Aurora Cloud Services • Aurora Developer Platform • Aurora Mobile AI
 
@@ -143,19 +212,37 @@
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+  <img src="https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logoColor=white" alt="matplotlib"/>
 </p>
 
 <br/>
 
-### 🤖 LLM & Generative AI (2024-2025)
+### 🤖 LLM & Generative AI (2025-2026)
 
 <p align="center">
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
-  <img src="https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude"/>
+  <img src="https://img.shields.io/badge/OpenAI_GPT--5.4-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI"/>
+  <img src="https://img.shields.io/badge/Claude_Opus_4.6-191919?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude"/>
+  <img src="https://img.shields.io/badge/Gemini_2.5-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini"/>
+  <img src="https://img.shields.io/badge/DeepSeek_V4-0066FF?style=for-the-badge&logoColor=white" alt="DeepSeek"/>
+  <img src="https://img.shields.io/badge/Grok_3-000000?style=for-the-badge&logoColor=white" alt="Grok"/>
   <img src="https://img.shields.io/badge/🤗_HuggingFace-FFD21E?style=for-the-badge&logoColor=black" alt="HuggingFace"/>
   <img src="https://img.shields.io/badge/LlamaIndex-6366F1?style=for-the-badge&logoColor=white" alt="LlamaIndex"/>
+  <img src="https://img.shields.io/badge/Llama_4-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="Llama 4"/>
+  <img src="https://img.shields.io/badge/Mistral_Large_2-FF7000?style=for-the-badge&logoColor=white" alt="Mistral"/>
   <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logoColor=white" alt="Ollama"/>
+</p>
+
+<br/>
+
+### 🔧 Agent OS & Automation
+
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenClaw-A277FF?style=for-the-badge&logoColor=white" alt="OpenClaw"/>
+  <img src="https://img.shields.io/badge/NemoClaw-FF6B6B?style=for-the-badge&logoColor=white" alt="NemoClaw"/>
+  <img src="https://img.shields.io/badge/Telegram_Bot_API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  <img src="https://img.shields.io/badge/NoneBot2-EA5252?style=for-the-badge&logoColor=white" alt="NoneBot2"/>
+  <img src="https://img.shields.io/badge/edge--tts-0078D4?style=for-the-badge&logoColor=white" alt="edge-tts"/>
 </p>
 
 <br/>
@@ -167,6 +254,21 @@
   <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logoColor=white" alt="ChromaDB"/>
   <img src="https://img.shields.io/badge/Weaviate-00C9A7?style=for-the-badge&logoColor=white" alt="Weaviate"/>
   <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS"/>
+  <img src="https://img.shields.io/badge/HNSWLIB-4B0082?style=for-the-badge&logoColor=white" alt="HNSWLIB"/>
+</p>
+
+<br/>
+
+### 🌐 Web Frameworks & APIs
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+  <img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white" alt="DRF"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+  <img src="https://img.shields.io/badge/Beautiful_Soup-3776AB?style=for-the-badge&logoColor=white" alt="BeautifulSoup"/>
+  <img src="https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logoColor=white" alt="Requests"/>
+  <img src="https://img.shields.io/badge/weasyprint-2C2D72?style=for-the-badge&logoColor=white" alt="weasyprint"/>
 </p>
 
 <br/>
@@ -182,6 +284,8 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
 </p>
 
 <br/>
@@ -193,8 +297,10 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <img src="https://img.shields.io/badge/WSL2-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="WSL2"/>
+  <img src="https://img.shields.io/badge/systemd-FFFFFF?style=for-the-badge&logo=systemd&logoColor=black" alt="systemd"/>
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake"/>
 </p>
 
 <br/>
@@ -255,9 +361,10 @@
 - Active participation in AI research and development
 
 **Practical Innovation** 🛠️
-- Architecting Aurora series AI ecosystem
+- Architecting Aurora series AI ecosystem with 6+ active projects
 - Implementing RAG architectures for context-aware AI
 - Deploying multi-modal AI solutions in production
+- Operating OpenClaw-powered personal AI agents 24/7
 
 **Community Building** 🤝
 - Creating AI tools that serve real communities
@@ -292,7 +399,7 @@
 
 <div align="center">
 
-### 🎯 Cutting-Edge AI Focus Areas (2025-2026)
+### 🎯 Cutting-Edge AI Focus Areas (2026)
 
 </div>
 
@@ -300,12 +407,14 @@
 
 | **Domain** | **Technologies** | **Applications** |
 |:----------:|:-----------------|:-----------------|
-| 🤖 **LLM & GenAI** | GPT-4, Claude 3, Gemini 3, Llama 3, Mistral | Conversational AI, Code Generation, Content Creation |
-| 🔍 **RAG Systems** | LangChain, LlamaIndex, Vector DBs, Hybrid Search | Knowledge Management, Document Intelligence, Q&A Systems |
-| 👥 **Multi-Agent AI** | LangGraph, CrewAI, AutoGen, Semantic Kernel | Collaborative Problem Solving, Workflow Automation |
+| 🤖 **LLM & GenAI** | GPT-5.4, Claude Opus 4.6/Sonnet 4.6, Gemini 2.5 Flash/Pro, Llama 4, Mistral Large 2, DeepSeek V4, Grok 3 | Conversational AI, Code Generation, Content Creation |
+| 🔍 **RAG Systems** | LangChain, LlamaIndex, FAISS, HNSWLIB, Hybrid Search | Knowledge Management, Document Intelligence, Q&A Systems |
+| 🤖 **Agentic AI** | OpenClaw, NemoClaw, LangGraph, CrewAI, AutoGen | Personal AI Agents, Autonomous Workflows, Agent OS |
+| 👥 **Multi-Agent AI** | Semantic Kernel, Multi-Agent Orchestration | Collaborative Problem Solving, Workflow Automation |
 | 🧠 **Neural Architecture** | Transformers, Mixture-of-Experts, GraphRAG | Advanced Model Design, Efficient Training |
 | ☁️ **MLOps & Deployment** | Kubernetes, Docker, AWS SageMaker, MLflow | Production AI, Scalable Infrastructure |
-| 🛡️ **Responsible AI** | Bias Detection, Explainability, Ethics Frameworks | Trustworthy AI, Governance, Compliance |
+| 🛡️ **AI Safety & Security** | NemoClaw Sandbox, Bias Detection, Explainability, Ethics | Trustworthy AI, Secure Execution, Governance |
+| 🖥️ **Next-Gen Hardware** | NVIDIA Vera Rubin, N1X, Edge AI Accelerators | AI Infrastructure, Model Optimization |
 
 <br/>
 
@@ -323,17 +432,17 @@
 
 ```python
 learning_roadmap = {
-    "2025_Q4": [
-        "🔧 Advanced Multi-Agent Systems Architecture",
-        "📚 Production-Grade RAG Implementation", 
-        "🎯 LLM Fine-Tuning & RLHF Techniques",
-        "🏗️ Distributed AI System Design"
-    ],
     "2026_Q1": [
-        "🤖 Agentic AI Orchestration Patterns",
+        "🔧 Advanced Multi-Agent Systems & OpenClaw Agent Architecture",
+        "📚 Production-Grade RAG with 750MB+ Knowledge Bases",
+        "🎯 LLM Fine-Tuning & RLHF Techniques",
+        "🏗️ Distributed AI System Design & NemoClaw Security"
+    ],
+    "2026_Q2": [
+        "🤖 Agentic AI Orchestration & Autonomous Workflows",
         "🕸️ GraphRAG & Knowledge Graph Integration",
-        "📱 Edge AI & Model Optimization",
-        "🛡️ AI Safety & Alignment Research"
+        "📱 Edge AI & Model Optimization (NVIDIA Vera Rubin)",
+        "🛡️ AI Safety, Alignment & Sandbox Security Research"
     ],
     "future_goals": {
         "technical": "Master end-to-end AI architecture from research to production",
@@ -406,9 +515,15 @@ Great AI systems are built by teams, not individuals
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Aurora_Universe-2_Active_Projects-A277FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Aurora Universe"/>
-  <img src="https://img.shields.io/badge/AI_Development-3+_Years-00D9FF?style=for-the-badge&logo=brain&logoColor=white" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Aurora_Universe-6+_Active_Projects-A277FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Aurora Universe"/>
+  <img src="https://img.shields.io/badge/AI_Development-4+_Years-00D9FF?style=for-the-badge&logo=brain&logoColor=white" alt="Experience"/>
   <img src="https://img.shields.io/badge/University_of_Leeds-CS_with_AI-FFD700?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Education"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Knowledge_Base-750+_MB-FF6B6B?style=for-the-badge&logo=database&logoColor=white" alt="Knowledge Base"/>
+  <img src="https://img.shields.io/badge/OpenClaw_+_NemoClaw-Powered-A277FF?style=for-the-badge&logoColor=white" alt="OpenClaw"/>
+  <img src="https://img.shields.io/badge/Automated_Tasks-10,000+-00D9FF?style=for-the-badge&logo=zap&logoColor=white" alt="Automated Tasks"/>
 </p>
 
 <br/>
@@ -417,8 +532,9 @@ Great AI systems are built by teams, not individuals
 
 ### 🌟 Project Impact
 
-🤖 **Active AI Bots:** Serving communities daily with intelligent assistance  
-💬 **User Interactions:** Thousands of conversations powered by Aurora AI  
+🤖 **6+ Active AI Projects:** Aurora Luo (QQ & OpenClaw), Aurora Yu (MC), SportsPulse, Search Engine, BattleSheep AI  
+💬 **10,000+ Automated Tasks:** Powered by OpenClaw personal AI agent running 24/7  
+📚 **753MB Knowledge Base:** 10,000+ files of curated intelligence  
 🔧 **Open Source:** Contributing to the AI development ecosystem  
 🌐 **Global Reach:** Building AI that transcends language and cultural barriers
 
@@ -449,6 +565,18 @@ Great AI systems are built by teams, not individuals
   </a>
   <a href="https://www.linkedin.com/in/%E5%AD%90%E5%81%A5-%E5%80%AA-796358316/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://t.me/Aurora_Luo_bot">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="https://space.bilibili.com/3546710810823385">
+    <img src="https://img.shields.io/badge/B站_小倪一杯倒-00A1D6?style=for-the-badge&logo=bilibili&logoColor=white" alt="Bilibili"/>
+  </a>
+  <a href="https://twitter.com/xiaoni112233">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"/>
+  </a>
+  <a href="https://philiapedia.com">
+    <img src="https://img.shields.io/badge/Philiapedia-A277FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
   </a>
 </p>
 
