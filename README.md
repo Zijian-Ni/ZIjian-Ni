@@ -575,7 +575,7 @@ Great AI systems are built by teams, not individuals
   <a href="https://twitter.com/xiaoni112233">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"/>
   </a>
-  <a href="https://philiapedia.com">
+  <a href="http://philiapedia.com">
     <img src="https://img.shields.io/badge/Philiapedia-A277FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
   </a>
 </p>
