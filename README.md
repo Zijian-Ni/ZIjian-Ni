@@ -34,6 +34,8 @@
 
 🚀 **Current Focus:** Building the **Aurora Universe** (极光宇宙), a comprehensive ecosystem of AI-powered applications — from QQ chatbots to OpenClaw-powered personal AI agents, Minecraft companions, football analytics APIs, search engines, and game AI.
 
+🎓 **Dissertation:** Building **BattleSheep AI** — an MCTS/UCT-based intelligent agent for hexagonal strategy games, achieving 87.5% win rate against greedy opponents.
+
 💡 **Philosophy:** I believe AI should be accessible, helpful, and seamlessly integrated into communities where people connect and create.
 
 </td>
@@ -46,6 +48,8 @@
 🎯 **职业愿景：** 努力成为**AI世界架构师** —— 设计能够改变人机交互方式的智能系统。
 
 🚀 **当前重点：** 正在构建**Aurora宇宙（极光宇宙）**，一个全面的AI应用生态系统 —— 从QQ聊天机器人到OpenClaw驱动的个人AI代理、Minecraft伙伴、足球数据分析API、搜索引擎和游戏AI。
+
+🎓 **毕业设计：** 正在开发 **BattleSheep AI** —— 基于MCTS/UCT的六角棋盘策略游戏智能体，对贪心对手胜率达87.5%。
 
 💡 **理念：** 我相信AI应该是易获取的、有帮助的，并且能够无缝集成到人们连接和创造的社区中。
 
@@ -175,6 +179,49 @@
 
 <br/>
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 **Tianji** | [天机](https://github.com/Zijian-Ni/tianji)
+**AI-Powered Web Frontend**
+
+🖥️ A modern web application built with cutting-edge frontend technologies:
+
+- ⚡ **Next.js 14** with App Router for server-side rendering
+- 🎨 **Tailwind CSS** for beautiful, responsive design
+- 🔥 **Vite** for lightning-fast development experience
+- 🤖 **AI Integration** for intelligent user interactions
+- 📱 **Mobile-first** responsive layout
+
+**Tech Stack:** `Next.js` `Tailwind CSS` `TypeScript` `Vite`
+
+🔗 [GitHub](https://github.com/Zijian-Ni/tianji)
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 **Awesome AI Agents 2026**
+**Curated List of AI Agent Resources**
+
+🗂️ A comprehensive, community-driven collection of AI agent tools, frameworks, and resources for 2026:
+
+- 🤖 **Agent Frameworks** — OpenClaw, LangGraph, CrewAI, AutoGen & more
+- 🧠 **Memory Systems** — Long-term, episodic, and working memory architectures
+- 🛡️ **Security** — Prompt firewalls, sandboxing, guardrails
+- 🔗 **MCP Ecosystem** — Servers, gateways, protocol tools
+- 📖 **Research Papers** — Cutting-edge agent research curated weekly
+
+**Tech Stack:** `Markdown` `GitHub Actions` `Community`
+
+🔗 [GitHub](https://github.com/Zijian-Ni/awesome-ai-agents-2026)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 <div align="center">
 
 ### 🔮 Future of Aurora | 极光的未来
@@ -262,6 +309,13 @@
 ### 🌐 Web Frameworks & APIs
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,tailwind,vite,django,flask" alt="Web Icons"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src="https://img.shields.io/badge/DRF-A30000?style=for-the-badge&logo=django&logoColor=white" alt="DRF"/>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
@@ -311,6 +365,47 @@
 
 <div align="center">
 
+## 🔥 Featured Projects | 精选项目
+
+</div>
+
+<br/>
+
+<p align="center">
+  <a href="https://github.com/Zijian-Ni/mcp-gateway">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Zijian-Ni&repo=mcp-gateway&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A277FF&icon_color=A277FF&text_color=FFFFFF" alt="mcp-gateway"/>
+  </a>
+  <a href="https://github.com/Zijian-Ni/agent-memory">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Zijian-Ni&repo=agent-memory&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A277FF&icon_color=A277FF&text_color=FFFFFF" alt="agent-memory"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Zijian-Ni/prompt-firewall">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Zijian-Ni&repo=prompt-firewall&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A277FF&icon_color=A277FF&text_color=FFFFFF" alt="prompt-firewall"/>
+  </a>
+  <a href="https://github.com/Zijian-Ni/tianji">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Zijian-Ni&repo=tianji&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A277FF&icon_color=A277FF&text_color=FFFFFF" alt="tianji"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Zijian-Ni/bilibili-mcp-server">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Zijian-Ni&repo=bilibili-mcp-server&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A277FF&icon_color=A277FF&text_color=FFFFFF" alt="bilibili-mcp-server"/>
+  </a>
+  <a href="https://github.com/Zijian-Ni/awesome-ai-agents-2026">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Zijian-Ni&repo=awesome-ai-agents-2026&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A277FF&icon_color=A277FF&text_color=FFFFFF" alt="awesome-ai-agents-2026"/>
+  </a>
+</p>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
 ## 📊 GitHub Analytics | GitHub统计
 
 </div>
@@ -333,6 +428,44 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Zijian-Ni&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="Trophies"/>
+</p>
+
+<br/>
+
+<div align="center">
+
+### 🏔️ 3D Contribution Skyline
+
+[![GitHub Skyline](https://img.shields.io/badge/View_3D_Skyline-A277FF?style=for-the-badge&logo=github&logoColor=white)](https://skyline.github.com/Zijian-Ni/2025)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## 📈 Weekly Development Breakdown | 每周开发统计
+
+</div>
+
+<br/>
+
+```text
+🤖 AI & Agent Dev     ██████████████░░░░░░░  65.2%  ~26 hrs/wk
+🌐 Web Development    ████░░░░░░░░░░░░░░░░░  15.8%  ~6 hrs/wk
+📚 Research & Reading  ███░░░░░░░░░░░░░░░░░░  10.5%  ~4 hrs/wk
+🛠️ DevOps & Infra     ██░░░░░░░░░░░░░░░░░░░   5.3%  ~2 hrs/wk
+📝 Documentation      █░░░░░░░░░░░░░░░░░░░░   3.2%  ~1 hr/wk
+```
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Total_Weekly-~40_hrs-A277FF?style=for-the-badge&logoColor=white" alt="Weekly Hours"/>
+  <img src="https://img.shields.io/badge/Primary_Language-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Primary Language"/>
+  <img src="https://img.shields.io/badge/Primary_Editor-VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="Editor"/>
 </p>
 
 <br/>
@@ -432,17 +565,19 @@
 
 ```python
 learning_roadmap = {
-    "2026_Q1": [
-        "🔧 Advanced Multi-Agent Systems & OpenClaw Agent Architecture",
-        "📚 Production-Grade RAG with 750MB+ Knowledge Bases",
-        "🎯 LLM Fine-Tuning & RLHF Techniques",
-        "🏗️ Distributed AI System Design & NemoClaw Security"
-    ],
     "2026_Q2": [
+        "🔧 Advanced Multi-Agent Systems & MCP Gateway Architecture",
+        "📚 Production-Grade RAG with 750MB+ Knowledge Bases",
+        "🎯 Agent Memory Systems & Prompt Firewall Security",
+        "🏗️ Next.js + Tailwind CSS Full-Stack Web Development",
+        "🎓 BattleSheep AI Dissertation — MCTS/UCT Game AI"
+    ],
+    "2026_Q3": [
         "🤖 Agentic AI Orchestration & Autonomous Workflows",
         "🕸️ GraphRAG & Knowledge Graph Integration",
         "📱 Edge AI & Model Optimization (NVIDIA Vera Rubin)",
-        "🛡️ AI Safety, Alignment & Sandbox Security Research"
+        "🛡️ AI Safety, Alignment & Sandbox Security Research",
+        "🌐 Tianji Web Platform & Aurora Cloud Services"
     ],
     "future_goals": {
         "technical": "Master end-to-end AI architecture from research to production",
@@ -575,7 +710,7 @@ Great AI systems are built by teams, not individuals
   <a href="https://twitter.com/xiaoni112233">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X/Twitter"/>
   </a>
-  <a href="http://philiapedia.com">
+  <a href="https://philiapedia.com">
     <img src="https://img.shields.io/badge/Philiapedia-A277FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
   </a>
 </p>
