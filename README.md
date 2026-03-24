@@ -371,32 +371,62 @@
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/Zijian-Ni/mcp-gateway">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Zijian-Ni&repo=mcp-gateway&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A277FF&icon_color=A277FF&text_color=FFFFFF" alt="mcp-gateway"/>
-  </a>
-  <a href="https://github.com/Zijian-Ni/agent-memory">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Zijian-Ni&repo=agent-memory&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A277FF&icon_color=A277FF&text_color=FFFFFF" alt="agent-memory"/>
-  </a>
-</p>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<p align="center">
-  <a href="https://github.com/Zijian-Ni/prompt-firewall">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Zijian-Ni&repo=prompt-firewall&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A277FF&icon_color=A277FF&text_color=FFFFFF" alt="prompt-firewall"/>
-  </a>
-  <a href="https://github.com/Zijian-Ni/tianji">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Zijian-Ni&repo=tianji&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A277FF&icon_color=A277FF&text_color=FFFFFF" alt="tianji"/>
-  </a>
-</p>
+### 🔌 [MCP Gateway](https://github.com/Zijian-Ni/mcp-gateway)
+Lightweight MCP Gateway — unified routing, auth, logging, and rate limiting for MCP servers
 
-<p align="center">
-  <a href="https://github.com/Zijian-Ni/bilibili-mcp-server">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Zijian-Ni&repo=bilibili-mcp-server&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A277FF&icon_color=A277FF&text_color=FFFFFF" alt="bilibili-mcp-server"/>
-  </a>
-  <a href="https://github.com/Zijian-Ni/awesome-ai-agents-2026">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=Zijian-Ni&repo=awesome-ai-agents-2026&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A277FF&icon_color=A277FF&text_color=FFFFFF" alt="awesome-ai-agents-2026"/>
-  </a>
-</p>
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![MCP](https://img.shields.io/badge/-MCP_Protocol-A277FF?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [Agent Memory](https://github.com/Zijian-Ni/agent-memory)
+Human-like memory for AI agents — episodic, semantic, and procedural memory with time-based decay
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![AI](https://img.shields.io/badge/-AI_Agents-FF6B6B?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🛡️ [Prompt Firewall](https://github.com/Zijian-Ni/prompt-firewall)
+Protect LLM applications from prompt injection, jailbreaks, and security threats
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Security](https://img.shields.io/badge/-LLM_Security-FF4444?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔮 [天机 Tianji](https://github.com/Zijian-Ni/tianji)
+Chinese Metaphysics Library + Web App — BaZi (八字), Liu Yao (六爻), Zi Wei Dou Shu (紫微斗数)
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Web](https://img.shields.io/badge/-Web_App-00D9FF?style=flat-square) [![Live](https://img.shields.io/badge/-Live_Demo-A277FF?style=flat-square)](https://zijian-ni.github.io/tianji/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📺 [Bilibili MCP Server](https://github.com/Zijian-Ni/bilibili-mcp-server)
+MCP server for Bilibili API — search, videos, comments, danmaku, trending for AI agents
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bilibili](https://img.shields.io/badge/-Bilibili-00A1D6?style=flat-square&logo=bilibili&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 [Awesome AI Agents 2026](https://github.com/Zijian-Ni/awesome-ai-agents-2026)
+A curated list of 100+ AI Agent frameworks, tools, platforms, and resources for 2026
+
+![Awesome](https://img.shields.io/badge/-Awesome_List-FC60A8?style=flat-square&logo=awesomelists&logoColor=white) ![2026](https://img.shields.io/badge/-2026-A277FF?style=flat-square)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -413,14 +443,14 @@
 <br/>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Zijian-Ni&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A277FF&icon_color=A277FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Zijian-Ni&cache_seconds=86400&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A277FF&icon_color=A277FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Zijian-Ni&theme=tokyonight&hide_border=true&background=0D1117&ring=A277FF&fire=A277FF&currStreakLabel=A277FF&sideLabels=A277FF&dates=8B8B8B" alt="GitHub Streak"/>
 </p>
 
 <br/>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zijian-Ni&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A277FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zijian-Ni&cache_seconds=86400&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A277FF&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
   <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=Zijian-Ni&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A277FF&line=A277FF&point=FFFFFF&area=true&area_color=A277FF" alt="Contribution Graph"/>
 </p>
 
@@ -436,7 +466,7 @@
 
 ### 🏔️ 3D Contribution Skyline
 
-[![GitHub Skyline](https://img.shields.io/badge/View_3D_Skyline-A277FF?style=for-the-badge&logo=github&logoColor=white)](https://skyline.github.com/Zijian-Ni/2025)
+[![GitHub Skyline](https://img.shields.io/badge/View_3D_Skyline-A277FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Zijian-Ni?tab=overview&from=2026-01-01)
 
 </div>
 
