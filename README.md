@@ -30,11 +30,11 @@
 
 ### 🇬🇧 English
 
-👋 Hi! I'm **Zijian Ni**, a **Final-Year Computer Science with Artificial Intelligence** student at **University of Leeds** (graduating Summer 2026), passionate about shaping the future of AI technology.
+👋 Hi! I'm **Zijian Ni**, a **3rd-Year (Final-Year) Computer Science with Artificial Intelligence** student at **University of Leeds** (UK 3-year undergraduate, graduating Summer 2026), passionate about shaping the future of AI technology.
 
 🎯 **Career Vision:** Aspiring to become an **AI World Architect** — designing intelligent systems that transform how humans interact with technology.
 
-🚀 **Current Focus:** Building the **Aurora Universe** (极光宇宙), a comprehensive ecosystem spanning AI Agents, MCP infrastructure, agent memory systems, prompt security, semantic caching, replay debugging, and a curated 100+ AI Agent resource hub.
+🚀 **Current Focus:** Building the **Aurora Universe** (极光宇宙) — 17 public repos spanning AI Agents, MCP infrastructure, agent memory systems, prompt security, semantic caching, replay debugging, and a curated 100+ AI Agent resource hub.
 
 🎓 **Dissertation (Completed):** **BattleSheep AI** — an MCTS/UCT-based intelligent agent for hexagonal strategy games, achieving **87.5% win rate** against greedy opponents.
 
@@ -47,11 +47,11 @@
 
 ### 🇨🇳 中文
 
-👋 你好！我是**倪子健**，**利兹大学计算机科学与人工智能专业**的大四在读学生（2026 年夏季毕业），致力于塑造AI技术的未来。
+👋 你好！我是**倪子健**，**利兹大学计算机科学与人工智能专业**的大三在读学生（英国本科三年制，2026 年夏季毕业），致力于塑造AI技术的未来。
 
 🎯 **职业愿景：** 努力成为**AI世界架构师** —— 设计能够改变人机交互方式的智能系统。
 
-🚀 **当前重点：** 正在构建**Aurora宇宙（极光宇宙）**，一个全面的 AI 生态系统 —— 覆盖 AI Agent、MCP 基础设施、Agent 记忆系统、Prompt 安全、语义缓存、回放调试，以及精选的 100+ AI Agent 资源中心。
+🚀 **当前重点：** 正在构建**Aurora宇宙（极光宇宙）** —— 17 个公开仓库，覆盖 AI Agent、MCP 基础设施、Agent 记忆系统、Prompt 安全、语义缓存、回放调试，以及精选的 100+ AI Agent 资源中心。
 
 🎓 **毕业设计（已完成）：** **BattleSheep AI** —— 基于 MCTS/UCT 的六角棋盘策略游戏智能体，对贪心对手胜率达 **87.5%**。
 
@@ -98,7 +98,7 @@
 **Phase 2 (2025–2026): OpenClaw Personal AI Agent 🌐**
 - 🤖 Evolved into a **full-system AI agent** on Telegram
 - 🧠 Powered by **Claude Opus 4.7 / Sonnet 4.6** + **Gemini 3.1 Pro** fallback
-- 📁 **25,000+ files** curated across 46 knowledge categories
+- 📁 **31,800+ files** curated across **52 knowledge categories**
 - 🔧 Full system access: file management, browser automation, code execution, GitHub / B 站 / X automation, cron scheduling, market monitoring
 - 🏰 **NemoClaw sandbox** for secure execution
 - 🛌 24/7 operation with dreaming memory consolidation
@@ -571,16 +571,16 @@
 
 ### 🎓 Current Phase | 当前阶段
 
-**Final Year (2026)** 📚
-- Final exams May 2026: COMP3011 + COMP3631
+**Final Year — 3rd Year (2026)** 📚
+- Final exams May 27 & 29, 2026: COMP3011 Web Services + COMP3631 Intelligent Robotics
 - BattleSheep AI dissertation submitted ✅
-- Graduating Summer 2026 from University of Leeds
+- Graduating Summer 2026 from University of Leeds (UK 3-yr undergrad)
 
 **Aurora Universe Expansion** 🛠️
-- 13+ active GitHub projects covering Agents, MCP, Memory, Security
-- ⭐ 80+ stars on awesome-ai-agents-2026
-- Aurora QA, SemantiCache, Agent Replay all shipped
-- Personal AI agent running 24/7 with 25,000+ knowledge files
+- **17 public GitHub repos** covering Agents, MCP, Memory, Security, Caching, Replay
+- ⭐ **81+ stars** on awesome-ai-agents-2026
+- Aurora QA v1.2.1, SemantiCache v0.2.0, Agent Replay v0.1.0 — all shipped
+- Personal AI agent running 24/7 with **31,800+ knowledge files**
 
 **Community & Co-Founding** 🤝
 - Philiapedia (云庠教育) deployed on Alibaba Cloud
@@ -624,6 +624,7 @@
 | **Domain** | **Technologies** | **Applications** |
 |:----------:|:-----------------|:-----------------|
 | 🤖 **LLM & GenAI** | Claude Opus 4.7 / Sonnet 4.6, Gemini 3.1 Pro, GPT-5, Kimi K2.6, DeepSeek V4, Grok 4, Llama 4, Qwen 3 | Conversational AI, Code Generation, Reasoning |
+| 🧩 **MCP Infrastructure** | MCP Gateway, Bilibili MCP, MCP Servers, ACP Protocol | Tool ecosystem, agent interop |
 | 🔍 **RAG Systems** | LangChain, LlamaIndex, FAISS, HNSWLIB, Hybrid Search, Reranking | Knowledge Management, Document Intelligence, Q&A |
 | 🤖 **Agentic AI** | OpenClaw, NemoClaw, LangGraph, CrewAI, AutoGen | Personal AI Agents, Autonomous Workflows, Agent OS |
 | 🔗 **MCP Protocol** | MCP Gateway, Bilibili MCP, MCP Servers, ACP | Cross-Agent Communication, Tool Ecosystem |
@@ -649,10 +650,10 @@
 ```python
 learning_roadmap_2026 = {
     "2026_H1_now": [
-        "🎓 Final Exams: COMP3011 Web Services + COMP3631 Intelligent Robotics",
+        "🎓 Final Exams (3rd year): COMP3011 Web Services (May 27) + COMP3631 Intelligent Robotics (May 29)",
         "🚀 Aurora Universe expansion (mcp-gateway, agent-memory, prompt-firewall)",
         "🔬 LoRA fine-tuning on RTX 4080 with Unsloth + Llama 3 8B",
-        "📚 Building 25K+ multi-source knowledge base (RSS + X + Bilibili + Reddit + arXiv)",
+        "📚 Building 31K+ multi-source knowledge base across 52 categories (RSS + X + Bilibili + Reddit + arXiv)",
         "🤖 OpenClaw 2026.5.x personal agent operating 24/7",
     ],
     "2026_H2_post_grad": [
@@ -739,20 +740,20 @@ Great AI systems are built by teams, not individuals
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Aurora_Universe-13%2B_Active_Projects-A277FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Aurora Universe"/>
-  <img src="https://img.shields.io/badge/AI_Development-5%2B_Years-00D9FF?style=for-the-badge&logo=brain&logoColor=white" alt="Experience"/>
+  <img src="https://img.shields.io/badge/Aurora_Universe-17_Public_Repos-A277FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Aurora Universe"/>
+  <img src="https://img.shields.io/badge/AI_Development-Since_2024-00D9FF?style=for-the-badge&logo=brain&logoColor=white" alt="Experience"/>
   <img src="https://img.shields.io/badge/University_of_Leeds-CS_with_AI-FFD700?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Education"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Knowledge_Base-25%2C492_Files-FF6B6B?style=for-the-badge&logo=database&logoColor=white" alt="Knowledge Base"/>
+  <img src="https://img.shields.io/badge/Knowledge_Base-31%2C800%2B_Files-FF6B6B?style=for-the-badge&logo=database&logoColor=white" alt="Knowledge Base"/>
+  <img src="https://img.shields.io/badge/Knowledge_Categories-52-00A1D6?style=for-the-badge&logoColor=white" alt="Categories"/>
   <img src="https://img.shields.io/badge/Awesome_AI_Agents_2026-%E2%AD%90_81%2B-FFD700?style=for-the-badge&logoColor=white" alt="Awesome AI Agents"/>
-  <img src="https://img.shields.io/badge/BattleSheep_AI-87.5%25_Win_Rate-A277FF?style=for-the-badge&logoColor=white" alt="BattleSheep"/>
 </p>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/BattleSheep_AI-87.5%25_Win_Rate-A277FF?style=for-the-badge&logoColor=white" alt="BattleSheep"/>
   <img src="https://img.shields.io/badge/OpenClaw_Agent-24%2F7_Running-00C9A7?style=for-the-badge&logoColor=white" alt="OpenClaw 24/7"/>
-  <img src="https://img.shields.io/badge/Automated_Tasks-50%2C000%2B-00D9FF?style=for-the-badge&logo=zap&logoColor=white" alt="Automated Tasks"/>
   <img src="https://img.shields.io/badge/Philiapedia_%E4%BA%91%E5%BA%A0-Production_Deployed-FF6A00?style=for-the-badge&logoColor=white" alt="Philiapedia"/>
 </p>
 
@@ -762,10 +763,10 @@ Great AI systems are built by teams, not individuals
 
 ### 🌟 Project Impact
 
-🤖 **13+ Active GitHub Projects:** AI Agents, MCP Infrastructure, Memory, Security, Caching, Replay  
-⭐ **Awesome AI Agents 2026:** Community-curated catalog with 80+ stars  
-💬 **50,000+ Automated Tasks:** Powered by OpenClaw personal AI agent running 24/7  
-📚 **25,492-File Knowledge Base:** 46 categories, multi-source crawling (RSS + X + Bilibili + Reddit + arXiv)  
+🤖 **17 Public GitHub Projects:** AI Agents, MCP Infrastructure, Memory, Security, Caching, Replay  
+⭐ **Awesome AI Agents 2026:** Community-curated catalog with 81+ stars, 17 forks  
+💬 **24/7 Personal AI Agent:** Powered by OpenClaw, running on RTX 4080 + WSL2 Ubuntu  
+📚 **31,800+ File Knowledge Base:** 52 categories, multi-source crawling (RSS + X + Bilibili + Reddit + HackerNews + arXiv)  
 🔧 **Production Deployments:** Aurora QA v1.2.1, SemantiCache v0.2.0, Agent Replay v0.1.0, Philiapedia  
 🌐 **Global Reach:** Building AI that transcends language and cultural barriers
 
