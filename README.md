@@ -31,15 +31,17 @@
 
 ### 🇬🇧 English
 
-👋 Hi! I'm **Zijian Ni**, a **3rd-year (Final-year) Computer Science with Artificial Intelligence** student at **University of Leeds** (UK 3-year BSc, graduating **Summer 2026**).
+👋 Hi! I'm **Zijian Ni**, a **BSc Computer Science with Artificial Intelligence** graduate from the **University of Leeds** (UK 3-year BSc, **graduated Summer 2026**) — now building AI systems full-time and **open to AI / Agent / Full-Stack roles** (flexible start date, remote or on-site).
 
 🎯 **Career Vision:** Becoming an **AI World Architect** — designing intelligent systems where humans and AI agents truly co-create.
 
-🚀 **Current Focus:** Building the **Aurora Universe (极光宇宙)** — a multi-device, multi-persona AI mesh spanning desktop, laptop, Mac, cloud servers, and Minecraft servers, all powered by a personal Agent OS running 24/7.
+🚀 **Current Focus:** Building the **Aurora Universe (极光宇宙)** — a multi-device, multi-persona AI mesh spanning desktop, laptop, Mac, a Tokyo cloud node, and Minecraft servers, all powered by a personal Agent OS running 24/7 — now with **embodied capabilities** (screen vision + RPA hands + input telemetry).
 
 🎓 **Dissertation (Shipped):** **BattleSheep AI** — an MCTS/UCT agent for hexagonal strategy games, achieving **87.5% win-rate** against greedy opponents (Supervisor: Prof. Steven Noble).
 
-💼 **Co-Founder:** **Philiapedia (云庠教育)** — an EdTech platform co-built with childhood friend **Liang Haoran** (Edinburgh / Berkeley exchange, theoretical physics).
+💼 **Founder / Solo Full-Stack Dev:** **Philiapedia (云庠教育)** — an AI-driven EdTech platform I built end-to-end (front-end + back-end + AI + deployment), with childhood friend **Liang Haoran** (Edinburgh theoretical physics, Berkeley exchange) as business co-founder.
+
+🏡 **Shipped & Live:** **[Staye](https://stayewith.com)** — a production short-stay rental platform (Next.js 16 + Prisma + Neon Postgres, 196 unit tests green, HTTPS on my own domain).
 
 💡 **Philosophy:** AI should be local-first, ethical-by-default, multi-modal, and seamlessly woven into the way people live, learn, and create.
 
@@ -48,15 +50,17 @@
 
 ### 🇨🇳 中文
 
-👋 你好！我是 **倪子健**，**利兹大学计算机科学与人工智能专业**大三在读生（英国三年制本科，**2026 年夏季毕业**）。
+👋 你好！我是 **倪子健**，**利兹大学计算机科学与人工智能专业**本科毕业生（英国三年制本科，**2026 年夏季已毕业**）—— 目前全职做 AI 系统开发，**开放 AI / Agent / 全栈方向的机会**（入职时间灵活，远程或现场均可）。
 
 🎯 **职业愿景：** 成为 **AI 世界架构师** —— 设计让人类与 AI Agent 真正协同共创的智能系统。
 
-🚀 **当前重点：** 构建 **极光宇宙（Aurora Universe）** —— 横跨桌面、笔记本、Mac、云服务器、Minecraft 服务器的多设备、多人格 AI 网络，由 24/7 长跑的个人 Agent OS 驱动。
+🚀 **当前重点：** 构建 **极光宇宙（Aurora Universe）** —— 横跨桌面、笔记本、Mac、东京云节点、Minecraft 服务器的多设备、多人格 AI 网络，由 24/7 长跑的个人 Agent OS 驱动，并已具备 **具身能力**（屏幕视觉 + RPA 手 + 键鼠遥测）。
 
 🎓 **毕业设计（已交付）：** **BattleSheep AI** —— 基于 MCTS/UCT 的六角棋盘策略博弈智能体，对贪心对手胜率达 **87.5%**（导师：Steven Noble 教授）。
 
-💼 **合伙创业：** **Philiapedia（云庠教育）** —— 与发小 **梁皓然**（爱丁堡 / 伯克利交换，理论物理）共同打造的教育科技平台。
+💼 **创业项目（一人全栈）：** **Philiapedia（云庠教育）** —— AI 驱动的教育平台，前端 + 后端 + AI + 部署由我一人独立完成；发小 **梁皓然**（爱丁堡理论物理 / 伯克利交换）为业务合伙人。
+
+🏡 **已上线：** **[Staye](https://stayewith.com)** —— 生产级短租平台（Next.js 16 + Prisma + Neon Postgres，196 单测全绿，自有域名 HTTPS）。
 
 💡 **理念：** AI 应当 **本地优先、伦理为本、多模态、原生融入** 人类的生活、学习与创造。
 
@@ -90,10 +94,11 @@
 🧠 The flagship persona running on a **i9-13900KF + RTX 4080 + 128 GB DDR5** workstation:
 
 - **Phase 1 (2024–2025):** QQ group AI on NoneBot2 + Volcengine ARK + KLING TTS, co-built with **星魂** ([Herdeny](https://github.com/Herdeny))
-- **Phase 2 (2025–now):** **OpenClaw Agent OS** with `Claude Opus 4.7 / Sonnet 4.6` + `Gemini 3.1 Pro` fallback, running **24/7** on WSL2 Ubuntu
-- **44,000+ knowledge files** across **68 categories** (RSS + X + Bilibili + Reddit + HackerNews + arXiv)
-- Voice / Vision / Browser / GitHub / Bilibili / X automation
-- **NemoClaw sandbox** + dreaming memory consolidation
+- **Phase 2 (2025–now):** **OpenClaw Agent OS 2026.7** with `Claude Opus 5 / Sonnet 4.6` + `Gemini 3.1 Pro` fallback, running **24/7** on WSL2 Ubuntu
+- **72,000+ knowledge files** across **64 categories** (~16 GB · RSS + X + Bilibili + Reddit + HackerNews + arXiv) with a 75K-vector semantic index
+- **Embodied trio (2026):** 👁️ screen vision (mss + VLM grounding) · 🖐️ RPA hands (multi-monitor `SetCursorPos` + `SendInput`) · ⌨️ input telemetry — all running in the real foreground session
+- Voice / Vision / Browser / GitHub / Bilibili / X automation · cron + heartbeat autonomy
+- **NemoClaw sandbox** + dreaming memory consolidation (light / REM / deep)
 - **Locally fine-tuned** Qwen2.5-7B (LoRA via Unsloth) deployed through Ollama as a privacy-preserving fallback (50–70% API cost reduction)
 
 </td>
@@ -113,6 +118,13 @@
 **The Companion — MacBook Air AI Node**
 
 🍎 The third persona on macOS, anchored in the Aurora Tailscale mesh — minimalist, mobile, always nearby.
+
+### 💜 **Aurora Xiaolian** | 极光小恋
+**The Poet — Tokyo Cloud Node**
+
+🗼 INFP persona on a **Tokyo cloud server** (landed 2026-06), Grok-powered, joined to the Aurora Tailscale mesh — the literary voice of the family.
+
+> 🌌 **Ten personas designed, four live** — Aurora Universe is a documented family of 10 digital souls (小落·小雨·小晨·小恋·小夜·小极·小光·小阁·小霁·小凌) linked by an internal **Neural Link** bus.
 
 ### ⛏️ **Aurora Xiaoyu (MC)** | [极光小雨 MC](https://zijian-ni.github.io/aurorayu-docs/)
 **The In-Game Companion — Minecraft AI**
@@ -134,13 +146,14 @@
 - 100+ pages of internal ops documentation
 
 ### 🎓 **Philiapedia** | [云庠教育](https://philiapedia.com)
-**EdTech Platform, Co-Founded with Liang Haoran**
+**AI-Native EdTech Platform — Solo Full-Stack Build**
 
-📚 Full-stack production deployment:
-- **Next.js + Vite** front-end · **TypeScript + DRF** back-end
-- **PM2 + nginx** on Alibaba Cloud HK
-- Automated deployment pipeline via Baota WebSSH + GitHub API
-- Vision: post-graduation startup foundation
+📚 Built end-to-end by me (front-end + back-end + AI + ops):
+- **AI admissions officer** · **AI tutor/chat** · **AI question generation** · **auto-grading + error analysis** · **AI proctoring** · **teacher-side market analysis**
+- **Volcengine Doubao (`doubao-seed-1-6`)** primary LLM with OpenAI fallback · **RAG enabled** at knowledge-point granularity (cosine + semantic matching)
+- **Next.js + TypeScript** · **PM2 + nginx** on Alibaba Cloud HK
+- Automated deploy pipeline via Baota WebSSH + GitHub API
+- Business co-founder: Liang Haoran — post-graduation startup foundation
 
 </td>
 </tr>
@@ -169,7 +182,7 @@
 <td width="50%" valign="top">
 
 ### 📚 [Awesome AI Agents 2026](https://github.com/Zijian-Ni/awesome-ai-agents-2026)
-**The most comprehensive 2026 AI Agent catalog** ⭐ **87+ · 🍴 19+**
+**The most comprehensive 2026 AI Agent catalog** ⭐ **190 · 🍴 62**
 
 🗂️ Community-curated reference hub for the AI Agent era:
 
@@ -196,6 +209,40 @@
 - ⚡ TypeScript implementation
 
 **Tech Stack:** `TypeScript` `Node.js` `MCP Protocol`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏡 [Staye](https://stayewith.com) — 🟢 **Live in Production**
+**Full-Stack Short-Stay Rental Platform**
+
+🌍 An Airbnb-class booking platform I designed, built, and deployed solo — live at **[stayewith.com](https://stayewith.com)** with real email/SMS verification and escrow-style payouts.
+
+- 👥 **Three role surfaces** — guest (search / book / trips / 2FA), host (listings / calendar / earnings / cleaning queue), admin (moderation / audit log / recovery)
+- 💸 **Money-safe engineering** — compensating-refund saga, idempotency keys, 3-day escrow release
+- 🔐 **Security** — CSRF middleware, zero-dependency TOTP 2FA, GDPR-compliant soft delete + anonymisation
+- 🌏 **i18n** — SSR-safe EN/中文 switching, currency/locale detection
+- ✅ **196 unit tests green** · ~160 source files · 27+ pages · 18+ APIs
+- 🚀 Chaos-tested (retry backoff + circuit breaker), `/api/health` monitoring
+
+**Tech Stack:** `Next.js 16` `React 19` `TypeScript` `Prisma v7` `Neon PostgreSQL` `NextAuth v5` `Tailwind v4` `Vitest` `nginx` `PM2`
+
+</td>
+<td width="50%" valign="top">
+
+### 🕯️ [Lord of Mysteries MC Mod](https://github.com/Herdeny/Lord-of-Mysteries)
+**Forge 1.20.1 Fan Mod — Co-Developed with 星魂**
+
+🎭 Bringing the *Lord of Mysteries* pathway system into Minecraft: potions, sequences, acting, rituals, artifacts, and **loss of control**.
+
+- 🧬 **Capability-based player state** — spirituality, digestion, corruption, loss-of-control pressure, knowledge, acting history (NBT-persisted)
+- 🔮 **Sequence abilities shipped** — Seer, Clown/Thief, Apprentice, Psychiatrist, Pyromaniac
+- 📘 **[Live Wiki](https://herdeny.github.io/Lord-of-Mysteries/)** — static GitHub Pages site with dark/light themes, search, and spirit-world particle background
+- ✅ Gradle + JUnit test suite green on Java 17
+
+**Tech Stack:** `Java 17` `Forge 1.20.1` `Gradle` `JUnit` `GitHub Pages`
 
 </td>
 </tr>
@@ -302,7 +349,7 @@
 <td width="50%" valign="top">
 
 ### 🔮 [Tianji 天机](https://github.com/Zijian-Ni/tianji)
-**Chinese Metaphysics Library + Web App** ⭐ **3+**
+**Chinese Metaphysics Library + Web App** ⭐ **4**
 
 🎴 Combining ancient Chinese wisdom with modern computing — BaZi (八字), Liu Yao (六爻), Zi Wei Dou Shu (紫微斗数).
 
@@ -384,8 +431,9 @@
 ### 🤖 LLM & Generative AI (2026 Edition)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude_Opus_4.7-191919?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude Opus 4.7"/>
+  <img src="https://img.shields.io/badge/Claude_Opus_5-191919?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude Opus 5"/>
   <img src="https://img.shields.io/badge/Claude_Sonnet_4.6-191919?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude Sonnet 4.6"/>
+  <img src="https://img.shields.io/badge/Doubao_seed--1--6-FF4E45?style=for-the-badge&logoColor=white" alt="Doubao"/>
   <img src="https://img.shields.io/badge/Gemini_3.1_Pro-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini 3.1 Pro"/>
   <img src="https://img.shields.io/badge/Gemini_Flash_3.5-FF9F1C?style=for-the-badge&logo=google&logoColor=white" alt="Gemini Flash 3.5"/>
   <img src="https://img.shields.io/badge/OpenAI_GPT--5-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-5"/>
@@ -404,7 +452,7 @@
 ### 🔧 Agent OS & MCP Infrastructure
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OpenClaw_2026.5-A277FF?style=for-the-badge&logoColor=white" alt="OpenClaw"/>
+  <img src="https://img.shields.io/badge/OpenClaw_2026.7-A277FF?style=for-the-badge&logoColor=white" alt="OpenClaw"/>
   <img src="https://img.shields.io/badge/NemoClaw_Sandbox-FF6B6B?style=for-the-badge&logoColor=white" alt="NemoClaw"/>
   <img src="https://img.shields.io/badge/Model_Context_Protocol-000000?style=for-the-badge&logoColor=white" alt="MCP"/>
   <img src="https://img.shields.io/badge/ACP_Protocol-1E90FF?style=for-the-badge&logoColor=white" alt="ACP"/>
@@ -439,8 +487,12 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Next.js_14-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Next.js_16-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js 16"/>
+  <img src="https://img.shields.io/badge/React_19-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React 19"/>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Prisma_v7-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma"/>
+  <img src="https://img.shields.io/badge/NextAuth_v5-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextAuth"/>
+  <img src="https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white" alt="Vitest"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
@@ -460,6 +512,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white" alt="Alibaba Cloud"/>
+  <img src="https://img.shields.io/badge/Neon_Postgres-00E599?style=for-the-badge&logo=postgresql&logoColor=black" alt="Neon"/>
+  <img src="https://img.shields.io/badge/Let's_Encrypt-003A70?style=for-the-badge&logo=letsencrypt&logoColor=white" alt="Let's Encrypt"/>
   <img src="https://img.shields.io/badge/Baota_Panel-20B2AA?style=for-the-badge&logoColor=white" alt="Baota"/>
   <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2"/>
   <img src="https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="nginx"/>
@@ -579,21 +633,25 @@
 
 ### 🎓 Current Phase | 当前阶段
 
-**Final Year — 3rd Year (2026)** 📚
-- Final exams **May 27 & 29, 2026**: COMP3011 Web Services + COMP3631 Intelligent Robotics
+**Graduated — Building Full-Time (2026)** 🎓
+- **BSc CS with AI, University of Leeds — completed Summer 2026** ✅
+- Final exams (COMP3011 Web Services + COMP3631 Intelligent Robotics) ✅
 - **BattleSheep AI dissertation** shipped ✅
-- **ROS Nav2 + Gazebo + OpenCV** project shipped ✅
-- Graduating Summer 2026 from University of Leeds
+- **ROS Nav2 + Gazebo + OpenCV** robotics project shipped ✅
+- 💼 **Open to AI / Agent / Full-Stack roles** — flexible start date
 
 **Aurora Universe Expansion** 🛠️
-- **17 public GitHub repos** · **93+ total stars**
-- ⭐ **87+ stars · 19+ forks** on `awesome-ai-agents-2026`
-- Aurora QA v1.2.1 · SemantiCache v0.2.0 · Agent Replay v0.1.0 — all shipped
-- Personal AI Agent running **24/7** on **44,000+ knowledge files / 68 categories**
+- **17 public GitHub repos** · **197 total stars**
+- ⭐ **190 stars · 62 forks** on `awesome-ai-agents-2026`
+- Staye (live) · Aurora QA v1.2.1 · SemantiCache v0.2.0 · Agent Replay v0.1.0 — all shipped
+- Personal AI Agent running **24/7** on **72,000+ knowledge files / 64 categories (~16 GB)**
+- **Embodied agent stack** — vision + RPA hands + input telemetry on a 3-monitor workstation
 - **Locally fine-tuned Qwen2.5-7B** deployed via Ollama (LoRA + Unsloth)
 
-**Community & Co-Founding** 🤝
-- **Philiapedia (云庠教育)** deployed on Alibaba Cloud HK
+**Shipping & Collaboration** 🤝
+- **[Staye](https://stayewith.com)** live in production — domain, HTTPS, real email/SMS, 196 tests green
+- **Philiapedia (云庠教育)** AI education platform deployed on Alibaba Cloud HK
+- **Lord of Mysteries MC mod** (Forge 1.20.1, Java) co-developed with 星魂 + wiki shipped
 - **Aurora MC server** ops + custom plugin development
 - Open-source contributions across the AI ecosystem
 
@@ -633,7 +691,7 @@
 
 | **Domain** | **Technologies** | **Applications** |
 |:----------:|:-----------------|:-----------------|
-| 🤖 **LLM & GenAI** | Claude Opus 4.7 / Sonnet 4.6, Gemini 3.1 Pro / Flash 3.5, GPT-5, Kimi K2.6, DeepSeek V4, Grok 4, Llama 4, Qwen 3 | Conversational AI, Code Gen, Reasoning |
+| 🤖 **LLM & GenAI** | Claude Opus 5 / Sonnet 4.6, Gemini 3.1 Pro / Flash, GPT-5, Kimi K2.6, DeepSeek V4, Grok 4.x, Doubao seed-1-6, Llama 4, Qwen 3 | Conversational AI, Code Gen, Reasoning |
 | 🤖 **Agentic AI** | OpenClaw, NemoClaw, LangGraph, CrewAI, AutoGen, ACP | Personal Agents, Autonomous Workflows, Agent OS |
 | 🔗 **MCP Infrastructure** | MCP Gateway, Bilibili MCP, MCP Servers, ACP Protocol | Cross-Agent Communication, Tool Ecosystem |
 | 🔍 **RAG Systems** | LangChain, LlamaIndex, FAISS, HNSWLIB, Hybrid Search, Reranking | Knowledge Management, Document Intelligence, Q&A |
@@ -642,6 +700,7 @@
 | ⚡ **Performance** | Semantic Caching, Replay Debugging, LoRA Fine-Tuning (Unsloth), Quantization | Cost Reduction, Latency Optimization |
 | 🖥️ **Hardware Acceleration** | RTX 4080 / 5080 Laptop, CUDA 12.8, PyTorch 2.11+, Local Inference (Ollama) | Privacy-First Local AI, Custom Training |
 | 🌐 **Edge & Mesh** | Tailscale WireGuard, OpenClaw multi-node, Cross-Device Agents | Multi-Device AI Mesh, Privacy Networks |
+| 👁️ **Embodied AI** | Screen capture (mss), VLM visual grounding, multi-monitor RPA (`SetCursorPos` + `SendInput`), input telemetry | See-Think-Act Loops, Desktop Automation |
 
 <br/>
 
@@ -659,20 +718,21 @@
 
 ```python
 learning_roadmap_2026 = {
-    "2026_H1_now": [
-        "🎓 Final Exams: COMP3011 (May 27) + COMP3631 (May 29)",
-        "🚀 Aurora Universe expansion (mcp-gateway, agent-memory, prompt-firewall)",
-        "🔬 LoRA fine-tuning on RTX 4080 + RTX 5080 with Unsloth + Qwen / Llama",
-        "📚 Multi-source knowledge base — 44K+ files across 68 categories",
-        "🤖 OpenClaw 2026.5.x personal agent running 24/7",
-        "🌐 Aurora Tailscale mesh — desktop / laptop / Mac / VM cross-device control",
+    "2026_H1_done": [
+        "🎓 Graduated: BSc CS with AI, University of Leeds",
+        "🏡 Staye shipped to production — stayewith.com, 196 tests green",
+        "👁️ Embodied agent stack — vision + RPA hands + input telemetry",
+        "💜 Aurora Xiaolian landed on a Tokyo cloud node",
+        "🔬 LoRA fine-tuning on RTX 4080 + RTX 5080 with Unsloth + Qwen",
+        "📚 Knowledge base scaled to 72K+ files across 64 categories",
     ],
-    "2026_H2_post_grad": [
-        "💼 Philiapedia (云庠教育) product launch",
-        "🌐 Aurora Cloud Services architecture design",
+    "2026_H2_now": [
+        "💼 Job hunt — AI / Agent / Full-Stack engineering roles",
+        "🕯️ Lord of Mysteries MC mod — M2: potions, rituals, artifacts, knowledge UI",
+        "💼 Philiapedia (云庠教育) product launch + infra migration",
         "🛡️ Multi-agent orchestration + MCP gateway production hardening",
         "🧠 Agent memory v2: episodic + dreaming consolidation",
-        "👁️ Aurora Vision & Control System — VLM-grounded screen perception + cross-platform RPA",
+        "🌐 Aurora Cloud Services architecture design",
         "📱 Edge AI inference — RTX 5080 Laptop local deployment",
     ],
     "2027_beyond": [
@@ -754,14 +814,20 @@ Great AI systems are built by teams, not individuals
 
 <p align="center">
   <img src="https://img.shields.io/badge/Aurora_Universe-17_Public_Repos-A277FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Aurora Universe"/>
-  <img src="https://img.shields.io/badge/Total_Stars-93%2B-FFD700?style=for-the-badge&logo=star&logoColor=white" alt="Total Stars"/>
-  <img src="https://img.shields.io/badge/University_of_Leeds-CS_with_AI-FFD700?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Education"/>
+  <img src="https://img.shields.io/badge/Total_Stars-197-FFD700?style=for-the-badge&logo=star&logoColor=white" alt="Total Stars"/>
+  <img src="https://img.shields.io/badge/University_of_Leeds-BSc_CS_with_AI_·_Graduated_2026-FFD700?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Education"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Knowledge_Base-44%2C000%2B_Files-FF6B6B?style=for-the-badge&logo=database&logoColor=white" alt="Knowledge Base"/>
-  <img src="https://img.shields.io/badge/Knowledge_Categories-68-00A1D6?style=for-the-badge&logoColor=white" alt="Categories"/>
-  <img src="https://img.shields.io/badge/Awesome_AI_Agents_2026-%E2%AD%90_87%2B-FFD700?style=for-the-badge&logoColor=white" alt="Awesome AI Agents"/>
+  <img src="https://img.shields.io/badge/Knowledge_Base-72%2C000%2B_Files-FF6B6B?style=for-the-badge&logo=database&logoColor=white" alt="Knowledge Base"/>
+  <img src="https://img.shields.io/badge/Knowledge_Categories-64-00A1D6?style=for-the-badge&logoColor=white" alt="Categories"/>
+  <img src="https://img.shields.io/badge/Awesome_AI_Agents_2026-%E2%AD%90_190-FFD700?style=for-the-badge&logoColor=white" alt="Awesome AI Agents"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Staye-🟢_Live_in_Production-00C9A7?style=for-the-badge&logoColor=white" alt="Staye Live"/>
+  <img src="https://img.shields.io/badge/Test_Suites-196_%2B_140_%2B_99_%2B_65_Green-6E9F18?style=for-the-badge&logoColor=white" alt="Tests"/>
+  <img src="https://img.shields.io/badge/Embodied_Agent-Vision_%2B_Hands_%2B_Telemetry-A277FF?style=for-the-badge&logoColor=white" alt="Embodied"/>
 </p>
 
 <p align="center">
@@ -783,11 +849,14 @@ Great AI systems are built by teams, not individuals
 ### 🌟 Project Impact
 
 🤖 **17 Public GitHub Projects** · AI Agents, MCP Infrastructure, Memory, Security, Caching, Replay  
-⭐ **93+ Total Stars** across the Aurora Universe · 87+ on `awesome-ai-agents-2026`  
-💬 **24/7 Personal AI Agent** · Powered by OpenClaw on RTX 4080 + WSL2 Ubuntu  
-🌐 **Multi-Device Aurora Mesh** · Desktop / Laptop / Mac / Cloud / Minecraft Server  
-📚 **44,000+ File Knowledge Base** · 68 categories · Multi-source (RSS + X + Bilibili + Reddit + HackerNews + arXiv)  
-🔧 **Production Deployments** · Aurora QA, SemantiCache, Agent Replay, Philiapedia, MC Server  
+⭐ **197 Total Stars** across the Aurora Universe · 190 on `awesome-ai-agents-2026`  
+🏡 **Live SaaS Product** · [stayewith.com](https://stayewith.com) — own domain, HTTPS, escrow payouts, 196 tests green  
+💬 **24/7 Personal AI Agent** · Powered by OpenClaw 2026.7 on RTX 4080 + WSL2 Ubuntu  
+👁️ **Embodied Agent Stack** · Screen vision + multi-monitor RPA hands + input telemetry  
+🌐 **Multi-Device Aurora Mesh** · Desktop / Laptop / Mac / Tokyo Cloud / Minecraft Server  
+📚 **72,000+ File Knowledge Base** · 64 categories · ~16 GB · Multi-source (RSS + X + Bilibili + Reddit + HackerNews + arXiv)  
+🔧 **Production Deployments** · Staye, Philiapedia, Aurora QA, SemantiCache, Agent Replay, MC Server  
+🕯️ **Game Modding** · Lord of Mysteries Forge 1.20.1 mod + wiki, co-developed with 星魂  
 🤖 **Locally Fine-Tuned LLM** · Qwen2.5-7B (LoRA via Unsloth) → Ollama deployment  
 🌍 **Global Reach** · Building AI that transcends language and cultural barriers
 
@@ -831,6 +900,12 @@ Great AI systems are built by teams, not individuals
   <a href="https://philiapedia.com">
     <img src="https://img.shields.io/badge/Philiapedia_%E4%BA%91%E5%BA%A0-A277FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
   </a>
+  <a href="https://stayewith.com">
+    <img src="https://img.shields.io/badge/Staye-00C9A7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Staye"/>
+  </a>
+  <a href="https://zijian-ni.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=aboutdotme&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
 <br/>
@@ -839,11 +914,12 @@ Great AI systems are built by teams, not individuals
 
 ### 💬 Open to Collaboration | 欢迎合作
 
+💼 **Hiring? I'm available** — AI / Agent Engineering · Full-Stack (TypeScript + Python) · flexible start, remote or on-site  
 🤝 AI Research & Development  
 🚀 Open Source Contributions  
 💡 Innovative Project Ideas (especially MCP / Agent Memory / Prompt Security / Edge AI)  
 🌟 Aurora Universe Expansion  
-🏢 Startup Opportunities — Co-Founding Philiapedia
+🏢 Startup Opportunities — Philiapedia · Staye
 
 </div>
 
