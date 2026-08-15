@@ -41,7 +41,7 @@
 
 💼 **Founder / Solo Full-Stack Dev:** **Philiapedia (云庠教育)** — an AI-driven EdTech platform I built end-to-end (front-end + back-end + AI + deployment), with a childhood friend (physics background, currently on exchange in the US) as business co-founder.
 
-🏡 **Shipped & Live:** **[Staye](https://stayewith.com)** — a production short-stay rental platform (Next.js 16 + Prisma + Neon Postgres, 196 unit tests green, HTTPS on my own domain).
+🏡 **Shipped & Live:** **[Staye](https://stayewith.com)** — a production short-stay rental platform (Next.js 16 + Prisma + Neon Postgres, 230 unit tests green, HTTPS on my own domain).
 
 💡 **Philosophy:** AI should be local-first, ethical-by-default, multi-modal, and seamlessly woven into the way people live, learn, and create.
 
@@ -60,7 +60,7 @@
 
 💼 **创业项目（一人全栈）：** **Philiapedia（云庠教育）** —— AI 驱动的教育平台，前端 + 后端 + AI + 部署由我一人独立完成；一位发小（物理专业，目前在美国交换）担任业务合伙人。
 
-🏡 **已上线：** **[Staye](https://stayewith.com)** —— 生产级短租平台（Next.js 16 + Prisma + Neon Postgres，196 单测全绿，自有域名 HTTPS）。
+🏡 **已上线：** **[Staye](https://stayewith.com)** —— 生产级短租平台（Next.js 16 + Prisma + Neon Postgres，230 单测全绿，自有域名 HTTPS）。
 
 💡 **理念：** AI 应当 **本地优先、伦理为本、多模态、原生融入** 人类的生活、学习与创造。
 
@@ -94,8 +94,8 @@
 🧠 The flagship persona running on a **i9-13900KF + RTX 4080 + 128 GB DDR5** workstation:
 
 - **Phase 1 (2024–2025):** QQ group AI on NoneBot2 + Volcengine ARK + KLING TTS, co-built with [@Herdeny](https://github.com/Herdeny)
-- **Phase 2 (2025–now):** **OpenClaw Agent OS 2026.7** with `Claude Opus 5 / Sonnet 4.6` + `Gemini 3.1 Pro` fallback, running **24/7** on WSL2 Ubuntu
-- **74,000+ knowledge files** across **64 categories** (~16 GB · RSS + X + Bilibili + Reddit + HackerNews + arXiv) with a 159K-vector semantic index
+- **Phase 2 (2025–now):** **OpenClaw Agent OS 2026.7.1** with Claude Opus / Sonnet + Gemini fallback, running **24/7** on WSL2 Ubuntu
+- **84,000+ knowledge files** across **50+ categories** (~16 GB · RSS + X + Bilibili + Reddit + HackerNews + arXiv) with a **184K-vector** semantic index
 - **Embodied trio (2026):** 👁️ screen vision (mss + VLM grounding) · 🖐️ RPA hands (multi-monitor `SetCursorPos` + `SendInput`) · ⌨️ input telemetry — all running in the real foreground session
 - Voice / Vision / Browser / GitHub / Bilibili / X automation · cron + heartbeat autonomy
 - **NemoClaw sandbox** + dreaming memory consolidation (light / REM / deep)
@@ -182,15 +182,15 @@
 <td width="50%" valign="top">
 
 ### 📚 [Awesome AI Agents 2026](https://github.com/Zijian-Ni/awesome-ai-agents-2026)
-**The most comprehensive 2026 AI Agent catalog** ⭐ **190 · 🍴 62**
+**The most comprehensive 2026 AI Agent catalog** ⭐ **232 · 🍴 79** · **870+ resources**
 
-🗂️ Community-curated reference hub for the AI Agent era:
+🗂️ Community-curated reference hub for the AI Agent era — actively maintained through **Aug 2026**:
 
-- 🤖 **Agent Frameworks** — OpenClaw, LangGraph, CrewAI, AutoGen, Semantic Kernel & more
-- 🧠 **Memory Systems** — Long-term, episodic, working memory architectures
-- 🛡️ **Security** — Prompt firewalls, sandboxing, guardrails
-- 🔗 **MCP Ecosystem** — Servers, gateways, protocol tools
-- 📖 **Research Papers** — Cutting-edge weekly curation
+- 📦 **870+ resources · 25 categories** — models, frameworks, protocols, coding agents, Physical AI
+- 🤖 **Agent Frameworks** — OpenClaw, LangGraph, CrewAI, Microsoft Agent Framework, Pydantic AI…
+- 🧠 **Memory · Security · Sandbox** — long-term memory, prompt firewalls, code isolation
+- 🔗 **MCP / A2A ecosystem** — servers, gateways, agent-to-agent standards
+- 🧪 **CI structure gates** — trilingual en/zh/ja lockstep + freshness audits (no silent drift)
 - 🌍 **Trilingual** — English · 中文 · 日本語
 
 ![Stars](https://img.shields.io/github/stars/Zijian-Ni/awesome-ai-agents-2026?style=flat-square&color=A277FF) ![Forks](https://img.shields.io/github/forks/Zijian-Ni/awesome-ai-agents-2026?style=flat-square&color=00D9FF)
@@ -224,7 +224,7 @@
 - 💸 **Money-safe engineering** — compensating-refund saga, idempotency keys, 3-day escrow release
 - 🔐 **Security** — CSRF middleware, zero-dependency TOTP 2FA, GDPR-compliant soft delete + anonymisation
 - 🌏 **i18n** — SSR-safe EN/中文 switching, currency/locale detection
-- ✅ **196 unit tests green** · ~160 source files · 27+ pages · 18+ APIs
+- ✅ **230 unit tests green** · ~160 source files · 27+ pages · 18+ APIs
 - 🚀 Chaos-tested (retry backoff + circuit breaker), `/api/health` monitoring
 
 **Tech Stack:** `Next.js 16` `React 19` `TypeScript` `Prisma v7` `Neon PostgreSQL` `NextAuth v5` `Tailwind v4` `Vitest` `nginx` `PM2`
@@ -400,12 +400,6 @@
 
 <br/>
 
-
-<br/>
-
-
-<br/>
-
 <div align="center">
 
 ## 🔭 What I'm Building Toward | 我在构建什么
@@ -477,7 +471,7 @@ A student checking homework, a parent checking an AI answer, a PM checking a rep
 
 ## 🔍 Agent Trust & Orchestration Suite | Agent 可信与编排工具链
 
-**Shipped August 2026** — four tools built around one belief: *an AI claim without evidence is just a confident sentence.*
+**Shipped August 2026** — five tools built around one belief: *an AI claim without evidence is just a confident sentence.*
 
 </div>
 
@@ -543,7 +537,7 @@ A student checking homework, a parent checking an AI answer, a PM checking a rep
 - 🔎 Offline heuristics extract steps, triggers, risk level and a runnable check
 - ⚖️ Confidence scoring based on source format and tool diversity
 - 🛡️ Risk detection for destructive commands
-- ✅ **35 unit tests** · zero runtime deps · `--llm` optional and off by default
+- ✅ **70 unit tests** · zero runtime deps · `--llm` optional and off by default
 
 **Tech Stack:** `TypeScript` `Node CLI` `node:test`
 
@@ -605,10 +599,10 @@ A student checking homework, a parent checking an AI answer, a PM checking a rep
 ### 🤖 LLM & Generative AI (2026 Edition)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Claude_Opus_5-191919?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude Opus 5"/>
-  <img src="https://img.shields.io/badge/Claude_Sonnet_4.6-191919?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude Sonnet 4.6"/>
+  <img src="https://img.shields.io/badge/Claude_Opus-191919?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude Opus"/>
+  <img src="https://img.shields.io/badge/Claude_Sonnet-191919?style=for-the-badge&logo=anthropic&logoColor=D97757" alt="Claude Sonnet"/>
   <img src="https://img.shields.io/badge/Doubao_seed--1--6-FF4E45?style=for-the-badge&logoColor=white" alt="Doubao"/>
-  <img src="https://img.shields.io/badge/Gemini_3.1_Pro-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini 3.1 Pro"/>
+  <img src="https://img.shields.io/badge/Gemini_Pro-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini Pro"/>
   <img src="https://img.shields.io/badge/Gemini_Flash_3.5-FF9F1C?style=for-the-badge&logo=google&logoColor=white" alt="Gemini Flash 3.5"/>
   <img src="https://img.shields.io/badge/OpenAI_GPT--5-412991?style=for-the-badge&logo=openai&logoColor=white" alt="GPT-5"/>
   <img src="https://img.shields.io/badge/DeepSeek_V4-0066FF?style=for-the-badge&logoColor=white" alt="DeepSeek V4"/>
@@ -845,14 +839,14 @@ A student checking homework, a parent checking an AI answer, a PM checking a rep
 
 **Aurora Universe Expansion** 🛠️
 - **22 public GitHub repos** · **257 total stars**
-- ⭐ **232 stars** on `awesome-ai-agents-2026`
+- ⭐ **232 stars · 79 forks** on `awesome-ai-agents-2026` · 870+ curated resources
 - Staye (live) · Aurora QA v1.3.0 · SemantiCache v0.2.0 · Agent Replay v0.1.0 — all shipped
-- Personal AI Agent running **24/7** on **74,000+ knowledge files / 64 categories (~16 GB)**
+- Personal AI Agent running **24/7** on **84,000+ knowledge files / 50+ categories (~16 GB · 184K vectors)**
 - **Embodied agent stack** — vision + RPA hands + input telemetry on a 3-monitor workstation
 - **Locally fine-tuned Qwen2.5-7B** deployed via Ollama (LoRA + Unsloth)
 
 **Shipping & Collaboration** 🤝
-- **[Staye](https://stayewith.com)** live in production — domain, HTTPS, real email/SMS, 196 tests green
+- **[Staye](https://stayewith.com)** live in production — domain, HTTPS, real email/SMS, 230 tests green
 - **Philiapedia (云庠教育)** AI education platform deployed on Alibaba Cloud HK
 - **Lord of Mysteries MC mod** (Forge 1.20.1, Java) co-developed with a longtime collaborator + wiki shipped
 - **Aurora MC server** ops + custom plugin development
@@ -894,7 +888,7 @@ A student checking homework, a parent checking an AI answer, a PM checking a rep
 
 | **Domain** | **Technologies** | **Applications** |
 |:----------:|:-----------------|:-----------------|
-| 🤖 **LLM & GenAI** | Claude Opus 5 / Sonnet 4.6, Gemini 3.1 Pro / Flash, GPT-5, Kimi K2.6, DeepSeek V4, Grok 4.x, Doubao seed-1-6, Llama 4, Qwen 3 | Conversational AI, Code Gen, Reasoning |
+| 🤖 **LLM & GenAI** | Claude Opus / Sonnet, Gemini Pro / Flash, GPT-5.x, Kimi K2.6, DeepSeek V4, Grok 4.x, Doubao seed-1-6, Llama 4, Qwen 3 | Conversational AI, Code Gen, Reasoning |
 | 🤖 **Agentic AI** | OpenClaw, NemoClaw, LangGraph, CrewAI, AutoGen, ACP | Personal Agents, Autonomous Workflows, Agent OS |
 | 🔗 **MCP Infrastructure** | MCP Gateway, Bilibili MCP, MCP Servers, ACP Protocol | Cross-Agent Communication, Tool Ecosystem |
 | 🔍 **RAG Systems** | LangChain, LlamaIndex, FAISS, HNSWLIB, Hybrid Search, Reranking | Knowledge Management, Document Intelligence, Q&A |
@@ -923,11 +917,11 @@ A student checking homework, a parent checking an AI answer, a PM checking a rep
 learning_roadmap_2026 = {
     "2026_H1_done": [
         "🎓 Graduated: BSc CS with AI, University of Leeds",
-        "🏡 Staye shipped to production — stayewith.com, 196 tests green",
+        "🏡 Staye shipped to production — stayewith.com, 230 tests green",
         "👁️ Embodied agent stack — vision + RPA hands + input telemetry",
         "💜 Aurora Xiaolian landed on a Tokyo cloud node",
         "🔬 LoRA fine-tuning on RTX 4080 + RTX 5080 with Unsloth + Qwen",
-        "📚 Knowledge base scaled to 74K+ files across 64 categories",
+        "📚 Knowledge base scaled to 84K+ files · 184K-vector index",
     ],
     "2026_H2_now": [
         "💼 Job hunt — AI / Agent / Full-Stack engineering roles",
@@ -976,7 +970,7 @@ learning_roadmap_2026 = {
 <p align="center">
   <img src="https://img.shields.io/badge/Knowledge_Base-74%2C000%2B_Files-FF6B6B?style=for-the-badge&logo=database&logoColor=white" alt="Knowledge Base"/>
   <img src="https://img.shields.io/badge/Knowledge_Categories-64-00A1D6?style=for-the-badge&logoColor=white" alt="Categories"/>
-  <img src="https://img.shields.io/badge/Awesome_AI_Agents_2026-%E2%AD%90_232-FFD700?style=for-the-badge&logoColor=white" alt="Awesome AI Agents"/>
+  <img src="https://img.shields.io/badge/Awesome_AI_Agents_2026-%E2%AD%90_232%20%C2%B7%2079_forks-FFD700?style=for-the-badge&logoColor=white" alt="Awesome AI Agents"/>
 </p>
 
 <p align="center">
@@ -1011,11 +1005,11 @@ learning_roadmap_2026 = {
 
 🤖 **22 Public GitHub Projects** · AI Agents, MCP Infrastructure, Memory, Security, Caching, Replay  
 ⭐ **257 Total Stars** across the Aurora Universe · 232 on `awesome-ai-agents-2026`  
-🏡 **Live SaaS Product** · [stayewith.com](https://stayewith.com) — own domain, HTTPS, escrow payouts, 196 tests green  
+🏡 **Live SaaS Product** · [stayewith.com](https://stayewith.com) — own domain, HTTPS, escrow payouts, 230 tests green  
 💬 **24/7 Personal AI Agent** · Powered by OpenClaw 2026.7 on RTX 4080 + WSL2 Ubuntu  
 👁️ **Embodied Agent Stack** · Screen vision + multi-monitor RPA hands + input telemetry  
 🌐 **Multi-Device Aurora Mesh** · Desktop / Laptop / Mac / Tokyo Cloud / Minecraft Server  
-📚 **74,000+ File Knowledge Base** · 64 categories · ~16 GB · Multi-source (RSS + X + Bilibili + Reddit + HackerNews + arXiv)  
+📚 **84,000+ File Knowledge Base** · 50+ categories · ~16 GB · 184K-vector index · Multi-source (RSS + X + Bilibili + Reddit + HackerNews + arXiv)  
 🔍 **Agent Trust Suite** · Evidence grading, tamper-evident ledgers, trace replay — [3 live demos](https://zijian-ni.github.io/evolution-ledger/) anyone can open  
 🔧 **Production Deployments** · Staye, Philiapedia, Aurora QA, SemantiCache, Agent Replay, MC Server  
 🕯️ **Game Modding** · Lord of Mysteries Forge 1.20.1 mod + wiki, co-developed with a longtime collaborator  
