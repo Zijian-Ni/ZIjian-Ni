@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Typing Header -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A277FF&center=true&vCenter=true&repeat=true&width=700&lines=Hello%2C+I'm+Building+the+AI+Future;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%AD%A3%E5%9C%A8%E6%9E%84%E5%BB%BA+AI+%E6%9C%AA%E6%9D%A5;Aurora+Universe+%E2%80%94+%E6%9E%81%E5%85%89%E5%AE%87%E5%AE%99;From+QQ+Bot+to+Multi-Device+AI+Mesh" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=A277FF&center=true&vCenter=true&repeat=true&width=700&lines=Hello%2C+I'm+Building+the+AI+Future;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E6%AD%A3%E5%9C%A8%E6%9E%84%E5%BB%BA+AI+%E6%9C%AA%E6%9D%A5;Aurora+Universe+%E2%80%94+%E6%9E%81%E5%85%89%E5%AE%87%E5%AE%99;Evidence+over+eloquence;Building+a+world+that+remembers" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -37,9 +37,9 @@
 
 🚀 **Current Focus:** Building the **Aurora Universe (极光宇宙)** — a multi-device, multi-persona AI mesh spanning desktop, laptop, Mac, a Tokyo cloud node, and Minecraft servers, all powered by a personal Agent OS running 24/7 — now with **embodied capabilities** (screen vision + RPA hands + input telemetry).
 
-🎓 **Dissertation (Shipped):** **BattleSheep AI** — an MCTS/UCT agent for hexagonal strategy games, achieving **87.5% win-rate** against greedy opponents (Supervisor: Prof. Steven Noble).
+🎓 **Dissertation (Shipped):** **BattleSheep AI** — an MCTS/UCT agent for hexagonal strategy games, achieving **87.5% win-rate** against greedy opponents (supervised dissertation project).
 
-💼 **Founder / Solo Full-Stack Dev:** **Philiapedia (云庠教育)** — an AI-driven EdTech platform I built end-to-end (front-end + back-end + AI + deployment), with childhood friend **Liang Haoran** (Edinburgh theoretical physics, Berkeley exchange) as business co-founder.
+💼 **Founder / Solo Full-Stack Dev:** **Philiapedia (云庠教育)** — an AI-driven EdTech platform I built end-to-end (front-end + back-end + AI + deployment), with a childhood friend (physics background, currently on exchange in the US) as business co-founder.
 
 🏡 **Shipped & Live:** **[Staye](https://stayewith.com)** — a production short-stay rental platform (Next.js 16 + Prisma + Neon Postgres, 196 unit tests green, HTTPS on my own domain).
 
@@ -56,9 +56,9 @@
 
 🚀 **当前重点：** 构建 **极光宇宙（Aurora Universe）** —— 横跨桌面、笔记本、Mac、东京云节点、Minecraft 服务器的多设备、多人格 AI 网络，由 24/7 长跑的个人 Agent OS 驱动，并已具备 **具身能力**（屏幕视觉 + RPA 手 + 键鼠遥测）。
 
-🎓 **毕业设计（已交付）：** **BattleSheep AI** —— 基于 MCTS/UCT 的六角棋盘策略博弈智能体，对贪心对手胜率达 **87.5%**（导师：Steven Noble 教授）。
+🎓 **毕业设计（已交付）：** **BattleSheep AI** —— 基于 MCTS/UCT 的六角棋盘策略博弈智能体，对贪心对手胜率达 **87.5%**（毕业设计项目）。
 
-💼 **创业项目（一人全栈）：** **Philiapedia（云庠教育）** —— AI 驱动的教育平台，前端 + 后端 + AI + 部署由我一人独立完成；发小 **梁皓然**（爱丁堡理论物理 / 伯克利交换）为业务合伙人。
+💼 **创业项目（一人全栈）：** **Philiapedia（云庠教育）** —— AI 驱动的教育平台，前端 + 后端 + AI + 部署由我一人独立完成；一位发小（物理专业，目前在美国交换）担任业务合伙人。
 
 🏡 **已上线：** **[Staye](https://stayewith.com)** —— 生产级短租平台（Next.js 16 + Prisma + Neon Postgres，196 单测全绿，自有域名 HTTPS）。
 
@@ -93,9 +93,9 @@
 
 🧠 The flagship persona running on a **i9-13900KF + RTX 4080 + 128 GB DDR5** workstation:
 
-- **Phase 1 (2024–2025):** QQ group AI on NoneBot2 + Volcengine ARK + KLING TTS, co-built with **星魂** ([Herdeny](https://github.com/Herdeny))
+- **Phase 1 (2024–2025):** QQ group AI on NoneBot2 + Volcengine ARK + KLING TTS, co-built with [@Herdeny](https://github.com/Herdeny)
 - **Phase 2 (2025–now):** **OpenClaw Agent OS 2026.7** with `Claude Opus 5 / Sonnet 4.6` + `Gemini 3.1 Pro` fallback, running **24/7** on WSL2 Ubuntu
-- **72,000+ knowledge files** across **64 categories** (~16 GB · RSS + X + Bilibili + Reddit + HackerNews + arXiv) with a 75K-vector semantic index
+- **74,000+ knowledge files** across **64 categories** (~16 GB · RSS + X + Bilibili + Reddit + HackerNews + arXiv) with a 159K-vector semantic index
 - **Embodied trio (2026):** 👁️ screen vision (mss + VLM grounding) · 🖐️ RPA hands (multi-monitor `SetCursorPos` + `SendInput`) · ⌨️ input telemetry — all running in the real foreground session
 - Voice / Vision / Browser / GitHub / Bilibili / X automation · cron + heartbeat autonomy
 - **NemoClaw sandbox** + dreaming memory consolidation (light / REM / deep)
@@ -153,7 +153,7 @@
 - **Volcengine Doubao (`doubao-seed-1-6`)** primary LLM with OpenAI fallback · **RAG enabled** at knowledge-point granularity (cosine + semantic matching)
 - **Next.js + TypeScript** · **PM2 + nginx** on Alibaba Cloud HK
 - Automated deploy pipeline via Baota WebSSH + GitHub API
-- Business co-founder: Liang Haoran — post-graduation startup foundation
+- Business co-founder: a childhood friend — post-graduation startup foundation
 
 </td>
 </tr>
@@ -161,7 +161,7 @@
 
 <br/>
 
-> 🌟 Co-created with **星魂 ([xinghun1314 / Herdeny](https://github.com/Herdeny))** — friends since 2012, building together from a 2017 Minecraft guild (落雨阁) to today's full AI ecosystem.
+> 🌟 Co-created with a longtime collaborator, **[@Herdeny](https://github.com/Herdeny)** — friends since 2012, building together from a 2017 Minecraft guild to today's full AI ecosystem.
 
 <br/>
 
@@ -233,7 +233,7 @@
 <td width="50%" valign="top">
 
 ### 🕯️ [Lord of Mysteries MC Mod](https://github.com/Herdeny/Lord-of-Mysteries)
-**Forge 1.20.1 Fan Mod — Co-Developed with 星魂**
+**Forge 1.20.1 Fan Mod — Co-Developed with [@Herdeny](https://github.com/Herdeny)**
 
 🎭 Bringing the *Lord of Mysteries* pathway system into Minecraft: potions, sequences, acting, rituals, artifacts, and **loss of control**.
 
@@ -249,18 +249,18 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🤖 [Aurora QA](https://github.com/Zijian-Ni/aurora-qa) — v1.2.1
-**AI-Powered Autonomous Quality Engineering**
+### 🤖 [Aurora QA](https://github.com/Zijian-Ni/aurora-qa) — v1.3.0
+**AI QA That Can Actually Gate Your PR**
 
-🛡️ Multi-agent pipelines that self-heal tests, run chaos experiments, and expose themselves as an MCP server with a real-time dashboard.
+🛡️ 13 specialist agents — plus the layer most AI QA tools skip: **evidence grading**. Severity is capped by what can be *proven*, so a hallucinated "critical" can never block a build, and a reproduced one always does.
 
-- 🔥 **Circuit Breaker** with 3-failure cutoff
-- 🌪️ **Chaos Engine** with instance isolation
-- 🧠 **Reasoning Engine** with 30 s AbortController timeout
-- ✅ **65 unit tests**, full CI green
-- 📊 **Real-time dashboard** for QA observability
+- 🧾 **Evidence grades** — `reproduction` › `static-match` › `citation` › `heuristic` › `unverifiable`
+- 🚫 **Hallucination detection** — a finding citing code that doesn't exist is capped at `info`
+- 🚦 **Quality gates** — explicit budgets, proven-ratio thresholds, baselines for legacy debt
+- 📤 **SARIF / JUnit / Markdown / JSON** — inline PR annotations, CI test tabs
+- ✅ **81 unit tests green** · works offline, no API key needed for grading
 
-**Tech Stack:** `TypeScript` `Multi-Agent` `MCP Server` `Chaos Engineering`
+**Tech Stack:** `TypeScript` `Multi-Agent` `MCP Server` `SARIF` `Chaos Engineering`
 
 </td>
 <td width="50%" valign="top">
@@ -393,6 +393,180 @@
   <img src="https://img.shields.io/badge/Win_Rate-87.5%25-FFD700?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Tests-36_Passing-00C9A7?style=for-the-badge"/>
 </p>
+
+<br/>
+
+---
+
+<br/>
+
+
+<br/>
+
+
+<br/>
+
+<div align="center">
+
+## 🔭 What I'm Building Toward | 我在构建什么
+
+*Most AI today is a very confident stranger. I'm building the opposite.*
+*今天大多数 AI 是一个非常自信的陌生人。我想做的恰好相反。*
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**01 · Local-first, privacy by default**
+Your memory, your knowledge base, your traces — they should live on hardware you own. Every tool I ship runs offline first and asks for a key only when it truly needs one.
+
+*你的记忆、知识库与运行轨迹，都应该留在自己的机器上。我做的每个工具都默认离线可用，只有真正必要时才要求密钥。*
+
+</td>
+<td width="50%" valign="top">
+
+**02 · Evidence over eloquence**
+An agent that says *"all tests pass"* is worthless without the log that proves it. I grade every AI claim by how it can be verified — a claim citing code that doesn't exist can never block your build.
+
+*一个说「测试全过」却拿不出日志的 Agent 毫无价值。我把每条 AI 结论按可验证程度分级——引用了不存在代码的结论，永远不能卡住你的构建。*
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**03 · Reversible autonomy**
+Autonomy is only safe if it's undoable. Self-evolving systems must record hypothesis, change, measurement and rollback point — appended, never overwritten.
+
+*自主性只有在可撤销时才是安全的。会自我进化的系统必须记录假设、改动、测量与回滚点——只追加，绝不覆写。*
+
+</td>
+<td width="50%" valign="top">
+
+**04 · Built for humans, not just engineers**
+A student checking homework, a parent checking an AI answer, a PM checking a report — they deserve the same verification tools engineers get. Same rigour, no terminal required.
+
+*查作业的学生、核对 AI 回答的家长、检查报告的产品经理——他们应该拥有和工程师一样的验证工具。同样严谨，但不需要打开终端。*
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+
+> **I don't want to build another chat window.**
+> **I want to build a world that remembers — where an agent's memory, its reasoning, and its mistakes are all first-class, inspectable objects.**
+>
+> *我不想再做一个聊天窗口。我想构建一个会记住的世界——在那里，Agent 的记忆、推理与错误，都是可以被检视的一等公民。*
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## 🔍 Agent Trust & Orchestration Suite | Agent 可信与编排工具链
+
+**Shipped August 2026** — four tools built around one belief: *an AI claim without evidence is just a confident sentence.*
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📋 [ClaimTape](https://github.com/Zijian-Ni/claimtape) — [🟢 Live Demo](https://zijian-ni.github.io/claimtape/)
+**"Did the AI actually prove that?" — for everyone**
+
+🧾 Paste an AI answer plus optional evidence; get a claim-by-claim trust report. Built for **students, parents, PMs — not just engineers**.
+
+- 🔬 Splits an answer into atomic claims, grades each as Supported / Unsupported / Contradicted / Needs-human
+- 🚩 Flags overclaim patterns: "100% coverage", "already deployed", "no bugs"
+- 📊 Trust score + exportable Markdown / JSON report
+- 🔒 **100% local** — no upload, no API key, works offline
+
+**Tech Stack:** `Vanilla JS` `Vite` `Offline heuristics` `EN/中文`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 [Traceboard](https://github.com/Zijian-Ni/traceboard) — [🟢 Live Demo](https://zijian-ni.github.io/traceboard/)
+**Prove what your agents actually did**
+
+🎞️ Drop a JSONL trace and get agent swimlanes anyone can read in 30 seconds — built for portfolios and reviewers, not ops dashboards.
+
+- 🏊 **Swimlanes by agent** with phase dividers and event-type filters
+- 🔍 Click any event → detail drawer with duration and payload
+- 🔗 **Shareable URLs** — small traces encode into the link itself
+- 📦 Zero backend · GitHub Pages ready
+
+**Tech Stack:** `Vite` `JSONL` `Static site` `EN/中文`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎀 [Evolution Ledger](https://github.com/Zijian-Ni/evolution-ledger) — [🟢 Live Demo](https://zijian-ni.github.io/evolution-ledger/)
+**How an AI agent was actually trained — and how to prove it**
+
+⛓️ Self-evolving agents rewrite their own prompts and configs with **zero audit trail**. This is the missing ledger: append-only and tamper-evident.
+
+- 🔗 **Hash-chained entries** — edit any past record and `verify` fails loudly
+- ↩️ **Rollback never deletes** — it appends a compensating entry pointing at the last good state
+- 📊 Every change carries a measured `before → after` and pass/fail
+- 🧪 Custom sync SHA-256 verified byte-for-byte against `node:crypto`
+- ✅ 10 tests · zero runtime dependencies
+
+**Tech Stack:** `Node.js` `Vite` `Isomorphic SHA-256` `Aurora glass UI`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧪 [Skill Distillery](https://github.com/Zijian-Ni/skill-distillery)
+**Win once → get a reusable skill**
+
+⚗️ Turns messy agent transcripts into `agentskills`-compatible `SKILL.md` drafts — with a verify gate, so a distilled skill has to *run* before it's trusted.
+
+- 🔎 Offline heuristics extract steps, triggers, risk level and a runnable check
+- ⚖️ Confidence scoring based on source format and tool diversity
+- 🛡️ Risk detection for destructive commands
+- ✅ **35 unit tests** · zero runtime deps · `--llm` optional and off by default
+
+**Tech Stack:** `TypeScript` `Node CLI` `node:test`
+
+</td>
+</tr>
+<tr>
+<td colspan="2">
+
+### 🎼 [Aurora Orchestra](https://github.com/Zijian-Ni/aurora-orchestra)
+**Multi-runtime agent orchestration with a written contract**
+
+🎛️ A desktop control room where one agent plans, a second explores, and a third executes — across **three different agent runtimes** over ACP. Every run leaves a reproducible evidence pack instead of a chat log.
+
+- 📜 **`orchestra.yml` contract** — lanes, agents, permissions, verify hooks, JSON-schema validated
+- 🖥️ **Electron studio** — route preview, live trace, evidence pack browser
+- 🧾 **Evidence output** — `trace.jsonl` + `summary.md` + per-lane artifacts (opens directly in Traceboard)
+- 🤖 **CI-friendly CLI** — `orchestra run | validate | init | pack`, runs offline with no secrets
+
+**Tech Stack:** `Electron` `TypeScript` `React` `ACP` `GitHub Actions`
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -549,6 +723,35 @@
 
 <br/>
 
+
+<br/>
+
+<div align="center">
+
+## ⚖️ How I Build | 我如何构建
+
+*Rules I earned by breaking things in production — not slogans.*
+*这些规则是我在生产环境里摔出来的，不是口号。*
+
+</div>
+
+<br/>
+
+| # | Principle | What it cost me to learn |
+|:--:|:----------|:-------------------------|
+| **01** | **Local commit is not deployment**<br>*本地提交不等于上线* | I once called a feature finished while the user couldn't see it at all. Nothing is "done" until it's verified on the live URL. |
+| **02** | **A silent tool failure is worse than a missing tool**<br>*工具静默失效比工具不存在更危险* | A dependency died quietly for days; empty results kept getting mistaken for answers. Every external capability now needs an active health check. |
+| **03** | **Money paths are never best-effort**<br>*涉钱的步骤绝不能是尽力而为* | Payment side effects hidden in a `try/catch` look fine in demos and lose real money in production. Reject before state changes, or roll back loudly. |
+| **04** | **Whatever must stay in sync needs a machine check**<br>*凡需保持一致的，必须有机器校验* | Multi-language docs drifted while every link stayed valid — link checkers can't catch structural drift. Now CI compares structure, not just URLs. |
+| **05** | **Verify claims — including your own**<br>*核实结论，包括自己的* | A confident *"it doesn't exist"* is as dangerous as a confident *"it does"*. Negative findings get double-checked against a second source. |
+| **06** | **Ship the failure too**<br>*连失败一起交付* | My demo datasets include real regressions I caused — like an index change that made retrieval **600× slower**. A portfolio of only wins teaches nobody. |
+
+<br/>
+
+---
+
+<br/>
+
 <div align="center">
 
 ## 📊 GitHub Analytics | GitHub 统计
@@ -641,39 +844,39 @@
 - 💼 **Open to AI / Agent / Full-Stack roles** — flexible start date
 
 **Aurora Universe Expansion** 🛠️
-- **17 public GitHub repos** · **197 total stars**
-- ⭐ **190 stars · 62 forks** on `awesome-ai-agents-2026`
-- Staye (live) · Aurora QA v1.2.1 · SemantiCache v0.2.0 · Agent Replay v0.1.0 — all shipped
-- Personal AI Agent running **24/7** on **72,000+ knowledge files / 64 categories (~16 GB)**
+- **22 public GitHub repos** · **257 total stars**
+- ⭐ **232 stars** on `awesome-ai-agents-2026`
+- Staye (live) · Aurora QA v1.3.0 · SemantiCache v0.2.0 · Agent Replay v0.1.0 — all shipped
+- Personal AI Agent running **24/7** on **74,000+ knowledge files / 64 categories (~16 GB)**
 - **Embodied agent stack** — vision + RPA hands + input telemetry on a 3-monitor workstation
 - **Locally fine-tuned Qwen2.5-7B** deployed via Ollama (LoRA + Unsloth)
 
 **Shipping & Collaboration** 🤝
 - **[Staye](https://stayewith.com)** live in production — domain, HTTPS, real email/SMS, 196 tests green
 - **Philiapedia (云庠教育)** AI education platform deployed on Alibaba Cloud HK
-- **Lord of Mysteries MC mod** (Forge 1.20.1, Java) co-developed with 星魂 + wiki shipped
+- **Lord of Mysteries MC mod** (Forge 1.20.1, Java) co-developed with a longtime collaborator + wiki shipped
 - **Aurora MC server** ops + custom plugin development
 - Open-source contributions across the AI ecosystem
 
 </td>
 <td width="50%" valign="top">
 
-### 🔮 Future Vision | 未来愿景
+### 🗺️ Roadmap | 路线图
 
-**Master AI Architecture** 🏗️
-- Design enterprise-scale AI infrastructure
-- Pioneer next-gen multi-agent orchestration
-- Bridge cutting-edge research with production systems
+**🔨 Building now** | 进行中
+- **Cross-runtime router benchmark** — same task set across different agent runtimes, scored on quality × cost × latency. Today people pick a model by vibes; I want a reproducible table.
+- **Memory that forgets well** — layered memory where relevance decays on purpose. *Learned the hard way: indexing everything made retrieval 600× slower and drowned the signal.*
+- **Safety layer for autonomous runs** — read-only by default, explicit approval for anything irreversible, full audit trail per action.
 
-**Lead AI Innovation** 💡
-- Architect AI solutions that transform industries
-- Champion responsible and ethical AI development
-- Mentor the next generation of AI engineers
+**🧭 Exploring** | 探索中
+- **Embodied agents that see and act** — screen perception + real input control, so an agent operates the same interfaces a human does, with every action logged and reversible.
+- **Physical AI & robotics** — the memory, safety and audit problems I work on don't disappear when an agent gets a body; they get sharper.
+- **Verifiable tutoring** — education is where verification matters most: a confident wrong answer costs a student real time.
 
-**Shape the AI Future** 🌐
-- Contribute to foundational AI infrastructure
-- Build systems that democratize AI access
-- Create AI that genuinely improves human life
+**⭐ Dreaming** | 畅想
+- **A persistent multi-agent world** — ten designed personas, each with its own temperament, sharing one memory fabric across devices. Companions, not assistants.
+- **Memory that outlives the model** — models keep getting replaced; the memory and history around them shouldn't be. Portable, inspectable, owned by the person.
+- **Software that improves itself, safely** — agents that ship their own upgrades, but only through the same evidence gates and rollback ledger they'd apply to anyone else.
 
 </td>
 </tr>
@@ -724,7 +927,7 @@ learning_roadmap_2026 = {
         "👁️ Embodied agent stack — vision + RPA hands + input telemetry",
         "💜 Aurora Xiaolian landed on a Tokyo cloud node",
         "🔬 LoRA fine-tuning on RTX 4080 + RTX 5080 with Unsloth + Qwen",
-        "📚 Knowledge base scaled to 72K+ files across 64 categories",
+        "📚 Knowledge base scaled to 74K+ files across 64 categories",
     ],
     "2026_H2_now": [
         "💼 Job hunt — AI / Agent / Full-Stack engineering roles",
@@ -758,54 +961,6 @@ learning_roadmap_2026 = {
 
 <div align="center">
 
-## 💡 AI Architect Principles | 架构师原则
-
-</div>
-
-<br/>
-
-<div align="center">
-
-> **"Great AI architecture isn't just about powerful models — it's about designing systems that are scalable, ethical, and genuinely useful to humanity."**
-
-</div>
-
-<br/>
-
-<div align="center">
-
-### Core Values | 核心价值观
-
-</div>
-
-<br/>
-
-🎯 **Purpose-Driven Design** | **目标导向设计**  
-Every AI system should solve real problems and create tangible value
-
-🔒 **Ethics & Privacy First** | **伦理与隐私优先**  
-Build responsible AI with fairness, transparency, and local-first privacy at the core
-
-⚡ **Performance & Efficiency** | **性能与效率**  
-Optimize for both computational efficiency and environmental sustainability
-
-🌍 **Accessibility** | **可访问性**  
-Make AI technology available and useful to diverse global communities
-
-🔄 **Continuous Innovation** | **持续创新**  
-Stay at the forefront of AI research while maintaining production stability
-
-🤝 **Collaboration** | **协作精神**  
-Great AI systems are built by teams, not individuals
-
-<br/>
-
----
-
-<br/>
-
-<div align="center">
-
 ## 🏆 Achievements & Milestones | 成就里程碑
 
 </div>
@@ -813,20 +968,20 @@ Great AI systems are built by teams, not individuals
 <br/>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Aurora_Universe-17_Public_Repos-A277FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Aurora Universe"/>
-  <img src="https://img.shields.io/badge/Total_Stars-197-FFD700?style=for-the-badge&logo=star&logoColor=white" alt="Total Stars"/>
+  <img src="https://img.shields.io/badge/Aurora_Universe-22_Public_Repos-A277FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Aurora Universe"/>
+  <img src="https://img.shields.io/badge/Total_Stars-257-FFD700?style=for-the-badge&logo=star&logoColor=white" alt="Total Stars"/>
   <img src="https://img.shields.io/badge/University_of_Leeds-BSc_CS_with_AI_·_Graduated_2026-FFD700?style=for-the-badge&logo=graduation-cap&logoColor=white" alt="Education"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Knowledge_Base-72%2C000%2B_Files-FF6B6B?style=for-the-badge&logo=database&logoColor=white" alt="Knowledge Base"/>
+  <img src="https://img.shields.io/badge/Knowledge_Base-74%2C000%2B_Files-FF6B6B?style=for-the-badge&logo=database&logoColor=white" alt="Knowledge Base"/>
   <img src="https://img.shields.io/badge/Knowledge_Categories-64-00A1D6?style=for-the-badge&logoColor=white" alt="Categories"/>
-  <img src="https://img.shields.io/badge/Awesome_AI_Agents_2026-%E2%AD%90_190-FFD700?style=for-the-badge&logoColor=white" alt="Awesome AI Agents"/>
+  <img src="https://img.shields.io/badge/Awesome_AI_Agents_2026-%E2%AD%90_232-FFD700?style=for-the-badge&logoColor=white" alt="Awesome AI Agents"/>
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Staye-🟢_Live_in_Production-00C9A7?style=for-the-badge&logoColor=white" alt="Staye Live"/>
-  <img src="https://img.shields.io/badge/Test_Suites-196_%2B_140_%2B_99_%2B_65_Green-6E9F18?style=for-the-badge&logoColor=white" alt="Tests"/>
+  <img src="https://img.shields.io/badge/Test_Suites-196_%2B_140_%2B_99_%2B_81_Green-6E9F18?style=for-the-badge&logoColor=white" alt="Tests"/>
   <img src="https://img.shields.io/badge/Embodied_Agent-Vision_%2B_Hands_%2B_Telemetry-A277FF?style=for-the-badge&logoColor=white" alt="Embodied"/>
 </p>
 
@@ -834,6 +989,12 @@ Great AI systems are built by teams, not individuals
   <img src="https://img.shields.io/badge/BattleSheep_AI-87.5%25_Win_Rate-A277FF?style=for-the-badge&logoColor=white" alt="BattleSheep"/>
   <img src="https://img.shields.io/badge/OpenClaw_Agent-24%2F7_Running-00C9A7?style=for-the-badge&logoColor=white" alt="OpenClaw 24/7"/>
   <img src="https://img.shields.io/badge/Philiapedia_%E4%BA%91%E5%BA%A0-Production_Deployed-FF6A00?style=for-the-badge&logoColor=white" alt="Philiapedia"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Evidence_Grading-Hallucination_Can't_Block_CI-A277FF?style=for-the-badge&logoColor=white" alt="Evidence Grading"/>
+  <img src="https://img.shields.io/badge/Evolution_Ledger-Tamper--Evident_Audit-00D9FF?style=for-the-badge&logoColor=white" alt="Evolution Ledger"/>
+  <img src="https://img.shields.io/badge/Live_Demos-3_on_GitHub_Pages-00C9A7?style=for-the-badge&logoColor=white" alt="Live Demos"/>
 </p>
 
 <p align="center">
@@ -848,15 +1009,16 @@ Great AI systems are built by teams, not individuals
 
 ### 🌟 Project Impact
 
-🤖 **17 Public GitHub Projects** · AI Agents, MCP Infrastructure, Memory, Security, Caching, Replay  
-⭐ **197 Total Stars** across the Aurora Universe · 190 on `awesome-ai-agents-2026`  
+🤖 **22 Public GitHub Projects** · AI Agents, MCP Infrastructure, Memory, Security, Caching, Replay  
+⭐ **257 Total Stars** across the Aurora Universe · 232 on `awesome-ai-agents-2026`  
 🏡 **Live SaaS Product** · [stayewith.com](https://stayewith.com) — own domain, HTTPS, escrow payouts, 196 tests green  
 💬 **24/7 Personal AI Agent** · Powered by OpenClaw 2026.7 on RTX 4080 + WSL2 Ubuntu  
 👁️ **Embodied Agent Stack** · Screen vision + multi-monitor RPA hands + input telemetry  
 🌐 **Multi-Device Aurora Mesh** · Desktop / Laptop / Mac / Tokyo Cloud / Minecraft Server  
-📚 **72,000+ File Knowledge Base** · 64 categories · ~16 GB · Multi-source (RSS + X + Bilibili + Reddit + HackerNews + arXiv)  
+📚 **74,000+ File Knowledge Base** · 64 categories · ~16 GB · Multi-source (RSS + X + Bilibili + Reddit + HackerNews + arXiv)  
+🔍 **Agent Trust Suite** · Evidence grading, tamper-evident ledgers, trace replay — [3 live demos](https://zijian-ni.github.io/evolution-ledger/) anyone can open  
 🔧 **Production Deployments** · Staye, Philiapedia, Aurora QA, SemantiCache, Agent Replay, MC Server  
-🕯️ **Game Modding** · Lord of Mysteries Forge 1.20.1 mod + wiki, co-developed with 星魂  
+🕯️ **Game Modding** · Lord of Mysteries Forge 1.20.1 mod + wiki, co-developed with a longtime collaborator  
 🤖 **Locally Fine-Tuned LLM** · Qwen2.5-7B (LoRA via Unsloth) → Ollama deployment  
 🌍 **Global Reach** · Building AI that transcends language and cultural barriers
 
