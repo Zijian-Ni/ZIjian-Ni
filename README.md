@@ -975,7 +975,7 @@ learning_roadmap_2026 = {
 
 <p align="center">
   <img src="https://img.shields.io/badge/Staye-🟢_Live_in_Production-00C9A7?style=for-the-badge&logoColor=white" alt="Staye Live"/>
-  <img src="https://img.shields.io/badge/Test_Suites-196_%2B_140_%2B_99_%2B_81_Green-6E9F18?style=for-the-badge&logoColor=white" alt="Tests"/>
+  <img src="https://img.shields.io/badge/Test_Suites-230_%2B_140_%2B_99_%2B_81_Green-6E9F18?style=for-the-badge&logoColor=white" alt="Tests"/>
   <img src="https://img.shields.io/badge/Embodied_Agent-Vision_%2B_Hands_%2B_Telemetry-A277FF?style=for-the-badge&logoColor=white" alt="Embodied"/>
 </p>
 
