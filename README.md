@@ -182,11 +182,11 @@
 <td width="50%" valign="top">
 
 ### 📚 [Awesome AI Agents 2026](https://github.com/Zijian-Ni/awesome-ai-agents-2026)
-**The most comprehensive 2026 AI Agent catalog** ⭐ **232 · 🍴 79** · **870+ resources**
+**The most comprehensive 2026 AI Agent catalog** ⭐ **232 · 🍴 79** · **880+ resources**
 
 🗂️ Community-curated reference hub for the AI Agent era — actively maintained through **Aug 2026**:
 
-- 📦 **870+ resources · 25 categories** — models, frameworks, protocols, coding agents, Physical AI
+- 📦 **880+ resources · 25 categories** — models, frameworks, protocols, coding agents, Physical AI
 - 🤖 **Agent Frameworks** — OpenClaw, LangGraph, CrewAI, Microsoft Agent Framework, Pydantic AI…
 - 🧠 **Memory · Security · Sandbox** — long-term memory, prompt firewalls, code isolation
 - 🔗 **MCP / A2A ecosystem** — servers, gateways, agent-to-agent standards
@@ -839,7 +839,7 @@ A student checking homework, a parent checking an AI answer, a PM checking a rep
 
 **Aurora Universe Expansion** 🛠️
 - **22 public GitHub repos** · **257 total stars**
-- ⭐ **232 stars · 79 forks** on `awesome-ai-agents-2026` · 870+ curated resources
+- ⭐ **232 stars · 79 forks** on `awesome-ai-agents-2026` · 880+ curated resources
 - Staye (live) · Aurora QA v1.3.0 · SemantiCache v0.2.0 · Agent Replay v0.1.0 — all shipped
 - Personal AI Agent running **24/7** on **84,000+ knowledge files / 50+ categories (~16 GB · 184K vectors)**
 - **Embodied agent stack** — vision + RPA hands + input telemetry on a 3-monitor workstation
